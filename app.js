@@ -485,10 +485,10 @@
         var hasLightStyle = toArr(book.style).some(function(s) { return lightStyles.indexOf(s) !== -1; });
         return hasLightGenre || hasLightMood || hasLightStyle;
       }
+      if (filter.type === "origin") {
+        return book.origin === filter.value;
+      }
       if (filter.type === "language") {
-        if (filter.value === "עברית") {
-          return book.language === "עברית";
-        }
         if (filter.value === "translated") {
           return book.language && book.language !== "עברית";
         }
