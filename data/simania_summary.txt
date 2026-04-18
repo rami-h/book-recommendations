@@ -1,0 +1,14 @@
+=== תקציר: found 0 positions ===
+
+=== summary: found 2 positions ===
+:\"og:type\",\"content\":\"book\"}],[\"$\",\"meta\",\"27\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"28\",{\"name\":\"twitter:site\",\"content\":\"@simania_il\"}],[\"$\",\"meta\",\"29\",{\"name\":\"twitter:title\",\"content\":\"במעגלי החיים: תפילות, הגיונות, מנהגים והלכות - כרך א'  מאת הרב יונה מצגר\"}],[\"$\",\"meta\",\"30\",{\"name\":\"twitter:description\",\"content\":\"במעגלי החיים: תפילות, הגיונות, מנהגים והלכות - כרך א'  מאת הרב יונה מצגר. 1 קוראים עכשיו. קרא ביקורות וקנה בסימניה.\"}],[\"$\",\"meta\",\"31\",{\"name\":\"twitter:image\",\"content\":
+---
+rnate" content="en_US"/><meta property="og:type" content="book"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@simania_il"/><meta name="twitter:title" content="במעגלי החיים: תפילות, הגיונות, מנהגים והלכות - כרך א&#x27;  מאת הרב יונה מצגר"/><meta name="twitter:description" content="במעגלי החיים: תפילות, הגיונות, מנהגים והלכות - כרך א&#x27;  מאת הרב יונה מצגר. 1 קוראים עכשיו. קרא ביקורות וקנה בסימניה."/><meta name="twitter:image" content="https://cdn.simania.co.il/bookimages/covers0/1.jpg"/><meta name="twitter:image:alt" content="במעגלי החיים: תפילו
+---
+
+=== book-info-paragraph: found 0 positions ===
+
+=== bookSummary: found 0 positions ===
+
+=== book_summary: found 0 positions ===
+

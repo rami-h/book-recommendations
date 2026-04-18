@@ -1,0 +1,48 @@
+/* עיצוב להדפסה */
+@media print {
+  body {
+    background: white;
+    font-size: 12pt;
+  }
+
+  .app {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .header {
+    padding: 1rem 0;
+  }
+
+  .logo {
+    width: 40px;
+    height: 40px;
+  }
+
+  .input-section,
+  .loading-section,
+  .empty-section,
+  .results-footer,
+  .footer,
+  .filters-row,
+  .action-row,
+  .btn-add,
+  .options-row {
+    display: none !important;
+  }
+
+  .results-section {
+    margin-top: 0 !important;
+  }
+
+  .rec-card {
+    break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #ccc;
+    margin-bottom: 0.5rem;
+  }
+
+  .rec-card:hover {
+    box-shadow: none;
+  }
+}

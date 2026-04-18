@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ממליץ הספרים של ספריית שחרות</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700;900&family=Assistant:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=4">
+  <link rel="stylesheet" href="print.css" media="print">
+</head>
+<body>
+  <div class="app">
+    <!-- כותרת ראשית -->
+    <header class="header">
+      <button class="settings-btn" id="settingsBtn" title="הגדרות">⚙️</button>
+      <div class="logo-area">
+        <img src="assets/logo-placeholder.svg" alt="ספריית שחרות" class="logo" />
+      </div>
+      <h1>ממליץ הספרים של ספריית שחרות</h1>
+      <p class="subtitle">ספרו לנו אילו ספרים אהבתם ונמצא לכם את הספר הבא</p>
+    </header>
+
+    <!-- מודאל ספר -->
+    <div class="modal-overlay hidden" id="bookModal">
+      <div class="modal book-modal">
+        <div class="modal-header">
+          <div class="book-modal-title-area">
+            <h2 id="bookModalTitle"></h2>
+            <p class="book-modal-author" id="bookModalAuthor"></p>
+          </div>
+          <button class="modal-close" id="bookModalClose">✕</button>
+        </div>
+        <div class="modal-body" id="bookModalBody"></div>
+      </div>
+    </div>
+
+    <!-- מודאל הגדרות -->
+    <div class="modal-overlay hidden" id="settingsModal">
+      <div class="modal">
+        <div class="modal-header">
+          <h2>הגדרות מצב מומחה</h2>
+          <button class="modal-close" id="modalCloseBtn">✕</button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-hint">
+            מצב מומחה משתמש במודל שפה מתקדם כדי להפיק המלצות ברמת ספרן מקצועי. נדרש מפתח גישה אישי שיישמר רק בדפדפן שלכם.
+          </p>
+          <label class="modal-label">מפתח גישה</label>
+          <input type="password" class="modal-input" id="apiKeyInput" placeholder="sk-ant-..." dir="ltr" />
+          <p class="modal-warning">
+            ⚠️ המפתח נשמר רק במחשב שלכם ונשלח ישירות מהדפדפן לשירות המודל. זוהי גרסת ניסוי - לפריסה ציבורית תידרש שכבת שרת ביניים.
+          </p>
+          <div class="modal-actions">
+            <button class="btn btn-primary" id="saveKeyBtn">שמירה</button>
+            <button class="btn btn-ghost" id="clearKeyBtn">מחיקת מפתח</button>
+          </div>
+          <p class="modal-status" id="keyStatus"></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- אזור הזנת ספרים -->
+    <main class="main">
+      <section class="input-section">
+        <h2>אילו ספרים אהבתם?</h2>
+        <p class="input-hint">הזינו בין 1 ל-5 שמות של ספרים שאהבתם. ככל שתזינו יותר, ההמלצות יהיו מדויקות יותר.</p>
+
+        <div class="book-inputs" id="bookInputs">
+          <div class="book-input-row">
+            <div class="input-wrapper">
+              <input
+                type="text"
+                class="book-input"
+                placeholder="שם הספר..."
+                autocomplete="off"
+                data-index="0"
+              />
+              <div class="autocomplete-list" data-index="0"></div>
+            </div>
+            <span class="match-status" data-index="0"></span>
+          </div>
+        </div>
+
+        <button class="btn btn-secondary btn-add" id="addBookBtn">+ הוסיפו ספר נוסף</button>
+
+        <div class="options-row">
+          <label class="toggle-label">
+            <input type="checkbox" id="libraryOnlyToggle" />
+            <span class="toggle-switch"></span>
+            <span class="toggle-text">המלצות רק מספרי ספריית שחרות</span>
+          </label>
+          <label class="toggle-label" id="aiModeWrapper">
+            <input type="checkbox" id="aiModeToggle" />
+            <span class="toggle-switch"></span>
+            <span class="toggle-text">✨ מצב מומחה (המלצות ברמת ספרן)</span>
+          </label>
+        </div>
+
+        <!-- פילטרים -->
+        <div class="filters-row" id="filtersRow">
+          <span class="filter-label">סינון:</span>
+          <button class="filter-chip" data-filter="genre" data-value="ספרות יפה">ספרות יפה</button>
+          <button class="filter-chip" data-filter="mood" data-value="קליל">קריאה קלילה</button>
+          <button class="filter-chip" data-filter="language" data-value="עברית">בעברית</button>
+          <button class="filter-chip" data-filter="language" data-value="translated">מתורגם</button>
+        </div>
+
+        <div class="action-row">
+          <button class="btn btn-primary" id="getRecsBtn">קבלו המלצות</button>
+          <button class="btn btn-secondary" id="randomBtn" title="הפתיעו אותי">🎲 הפתיעו אותי</button>
+          <button class="btn btn-ghost" id="clearBtn">נקו הכל</button>
+        </div>
+      </section>
+
+      <!-- מצב טעינה -->
+      <section class="loading-section hidden" id="loadingSection">
+        <div class="loading-spinner"></div>
+        <p>מחפשים את הספרים המושלמים בשבילכם...</p>
+      </section>
+
+      <!-- תוצאות -->
+      <section class="results-section hidden" id="resultsSection">
+        <div class="results-header">
+          <h2 id="resultsTitle">ההמלצות שלנו</h2>
+          <p class="results-subtitle" id="resultsSubtitle"></p>
+        </div>
+
+        <div class="results-grid" id="resultsGrid">
+          <!-- כרטיסי המלצות ייבנו דינמית -->
+        </div>
+
+        <div class="results-footer">
+          <button class="btn btn-secondary" id="printBtn">🖨️ הדפסה</button>
+          <button class="btn btn-ghost" id="tryAgainBtn">נסו שוב עם ספרים אחרים</button>
+        </div>
+      </section>
+
+      <!-- מצב ריק / בעיה -->
+      <section class="empty-section hidden" id="emptySection">
+        <div class="empty-content">
+          <p class="empty-icon">📚</p>
+          <p class="empty-text" id="emptyText"></p>
+          <button class="btn btn-secondary" id="emptyRetryBtn">נסו שוב</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>ממליץ הספרים של ספריית שחרות | נבנה באהבה לקהילה</p>
+    </footer>
+  </div>
+
+  <!-- טעינת נתונים וקוד -->
+  <script src="data/general_catalog.js"></script>
+  <script src="data/local_library_merged.js?v=1"></script>
+  <script src="data/embeddings_merged.js"></script>
+  <script src="recommender.js?v=2"></script>
+  <script src="app.js?v=17"></script>
+</body>
+</html>

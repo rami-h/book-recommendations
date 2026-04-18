@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#2c5f2d"/>
+  <g transform="translate(12, 10)">
+    <!-- ספר פתוח -->
+    <path d="M20 8 C14 6, 6 7, 2 10 L2 38 C6 35, 14 34, 20 36 Z" fill="#e8f0e8" opacity="0.9"/>
+    <path d="M20 8 C26 6, 34 7, 38 10 L38 38 C34 35, 26 34, 20 36 Z" fill="#e8f0e8" opacity="0.9"/>
+    <line x1="20" y1="8" x2="20" y2="36" stroke="#2c5f2d" stroke-width="1" opacity="0.3"/>
+    <!-- קווי טקסט -->
+    <line x1="7" y1="16" x2="16" y2="15" stroke="#97bc62" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="7" y1="21" x2="15" y2="20" stroke="#97bc62" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="7" y1="26" x2="14" y2="25.5" stroke="#97bc62" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="24" y1="15" x2="33" y2="16" stroke="#97bc62" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="24" y1="20" x2="33" y2="21" stroke="#97bc62" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="25" y1="25.5" x2="33" y2="26" stroke="#97bc62" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <!-- כוכב קטן -->
+  <path d="M52 10 L53.5 13 L57 13.5 L54.5 16 L55 19.5 L52 18 L49 19.5 L49.5 16 L47 13.5 L50.5 13 Z" fill="#97bc62" opacity="0.8"/>
+</svg>
