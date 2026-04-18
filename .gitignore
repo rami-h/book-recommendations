@@ -1,0 +1,7 @@
+.claude/
+__pycache__/
+.claude/
+__pycache__/
+data/origin_checkpoint.jsonl
+data/origin_detected.jsonl
+data/origin_log.txt
