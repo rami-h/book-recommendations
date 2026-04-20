@@ -48,12 +48,24 @@ def save_js(path, books, content, m):
         f.write(content[m.end(1):])
 
 
+def normalize_word(w):
+    """מסיר ה' הידיעה מתחילת מילה לצורך השוואה."""
+    return w[1:] if len(w) > 2 and w[0] == 'ה' else w
+
+
 def title_similarity(a, b):
-    a_words = set(re.sub(r'[^\w\s]', '', a).split())
-    b_words = set(re.sub(r'[^\w\s]', '', b).split())
+    def words(s):
+        return {normalize_word(w) for w in re.sub(r'[^\w\s]', '', s).split()}
+    a_words = words(a)
+    b_words = words(b)
     if not a_words or not b_words:
         return 0.0
     return len(a_words & b_words) / max(len(a_words), len(b_words))
+
+
+def search_title(title):
+    """כותרת לחיפוש — מסיר תת-כותרת אחרי נקודותיים."""
+    return re.split(r'\s*[:\u2014\u2013]\s*', title)[0].strip()
 
 
 def normalize_author(author):
@@ -71,7 +83,7 @@ def author_search_key(author):
 def fetch_simania(page, title, author):
     """חיפוש תקציר מסימניה."""
     author_key = author_search_key(author)
-    query = f'{title} {author_key}'.strip()
+    query = f'{search_title(title)} {author_key}'.strip()
     search_url = 'https://simania.co.il/searchBooks.php?query=' + urllib.parse.quote(query)
 
     try:
@@ -147,8 +159,8 @@ def fetch_simania(page, title, author):
 
 def fetch_evrit(page, title, author):
     """חיפוש תקציר מ-e-vrit."""
-    # e-vrit — חיפוש לפי כותרת בלבד (המחבר לא עוזר שם)
-    search_url = 'https://www.e-vrit.co.il/Search/' + urllib.parse.quote(title)
+    # e-vrit — חיפוש לפי כותרת ראשית בלבד (ללא תת-כותרת, המחבר לא עוזר שם)
+    search_url = 'https://www.e-vrit.co.il/Search/' + urllib.parse.quote(search_title(title))
     try:
         page.goto(search_url, wait_until='domcontentloaded', timeout=25000)
         time.sleep(7.0)
@@ -182,12 +194,19 @@ def fetch_evrit(page, title, author):
         return None, None
 
     def evrit_score(link):
-        sim = title_similarity(title, link['title'])
-        extra = set(link['title'].split()) - set(title.split())
-        return sim - min(0.18, len(extra) * 0.05)
+        # recall: כמה מהמילים שלנו מופיעות בתוצאה (לא עונשים על מילים נוספות שלהם)
+        our = {normalize_word(w) for w in re.sub(r'[^\w\s]', '', search_title(title)).split()}
+        their = {normalize_word(w) for w in re.sub(r'[^\w\s]', '', link['title']).split()}
+        if not our:
+            return 0.0
+        recall = len(our & their) / len(our)
+        # עונש קטן על מילים זרות לחלוטין (מניעת false-positive)
+        extra = their - our
+        penalty = min(0.15, len(extra) * 0.02)
+        return recall - penalty
 
     best = max(links, key=evrit_score)
-    if evrit_score(best) < 0.45:
+    if evrit_score(best) < 0.6:
         return None, None
 
     try:
