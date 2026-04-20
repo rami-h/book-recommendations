@@ -34963,5 +34963,16437 @@ var LOCAL_LIBRARY = [
     "shelf": "",
     "series": "",
     "publisher": ""
+  },
+  {
+    "id": "lib0001",
+    "title": "דוד וגליית",
+    "author": "בר עמוס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0003",
+    "title": "ספורי התורה לילדים דוד וגלית",
+    "author": "בר עמוס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0005",
+    "title": "אייבי+בין ורוח הרפאים",
+    "author": "ברוז אנני בלקול סופי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ברו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0007",
+    "title": "אביטל ונחש המים",
+    "author": "טפר יונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טפר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0008",
+    "title": "החבר שלי  החברה שלי סיפורי חברות",
+    "author": "טפר יונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טפר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0009",
+    "title": "דיאן ואני",
+    "author": "יובל יאיר שירלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "יוב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0011",
+    "title": "לודויג ואני",
+    "author": "יובל יאיר שירלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "יוב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0012",
+    "title": "תום ואני",
+    "author": "יובל יאיר שירלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "יוב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0013",
+    "title": "סיפור קיץ",
+    "author": "יובל נורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "יוב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0016",
+    "title": "המסע אל האי אולי",
+    "author": "ילן שטקליס מרים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ילן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0017",
+    "title": "הסבון בכה מאד",
+    "author": "ילן שטקליס מרים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ילן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0018",
+    "title": "ספר דני",
+    "author": "ילן שטקליס מרים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ילן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0019",
+    "title": "אני אבריא אותך נמרון אמר הדובון",
+    "author": "ינוש",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ינו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0020",
+    "title": "יוסי וכנור הקסמים",
+    "author": "ינוש",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ינו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0023",
+    "title": "אף פעם לא חיבקתי יונה",
+    "author": "כהן אסיף שלומית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "כהן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0024",
+    "title": "הארנב ממושי",
+    "author": "כהן אסיף שלומית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "כהן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0025",
+    "title": "ליצן הדובדבן",
+    "author": "כהן אסיף שלומית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "כהן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0026",
+    "title": "סבא מרחוב העפיפונים הכחולים",
+    "author": "כהן שלומית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "כהן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0027",
+    "title": "אגוז תמר ורוח בר",
+    "author": "כהן שמואל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "כהן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0030",
+    "title": "הלו כאן חיות",
+    "author": "כרמי בוריס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "כרמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0031",
+    "title": "הפופוטמית על גג",
+    "author": "כרמי דניאלה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "כרמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0033",
+    "title": "בית ספר בקלי קלות",
+    "author": "לברון אורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לבר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0034",
+    "title": "נילס הולגרסן במחבוא",
+    "author": "לגרלף סלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לגר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0037",
+    "title": "ספורה של כלבה",
+    "author": "לוי אליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לוי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0038",
+    "title": "הרפתקאות דוד אריה באוקינוס הטיבטי",
+    "author": "לוי ינץ",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לוי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0039",
+    "title": "הרפתקאות דוד אריה בקוטב המערבי",
+    "author": "לוי ינץ",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לוי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0041",
+    "title": "קול היער",
+    "author": "לונדון ג'ק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לונ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0042",
+    "title": "נועם והעפיפון",
+    "author": "לונדון מרסלה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לונ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0043",
+    "title": "הדרקון אפריים",
+    "author": "לזר יעקב",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לזר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0045",
+    "title": "ספורי פיות",
+    "author": "לסטר אנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לסט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0047",
+    "title": "התנין מצריים",
+    "author": "לפיד שולמית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לפי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0048",
+    "title": "אייבי+בין למי יש רעיון",
+    "author": "ברוז אנני בלקול סופי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ברו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0051",
+    "title": "חמת החלילים של המק וומבל",
+    "author": "ברספורד אליזבת",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ברס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0053",
+    "title": "מי הזיז את הגבינה שלי לילדים",
+    "author": "ג'ונסון ספנסר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ג'ו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0054",
+    "title": "ממלכת הפילים",
+    "author": "ג'נקינס א",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ג'נ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0055",
+    "title": "האסקימוסי הקטן",
+    "author": "ג'קסון קטרין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ג'ק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0056",
+    "title": "פוליטקלי קורקט אגדות ילדים",
+    "author": "גארנר ג'יימס פין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גאר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0057",
+    "title": "פוליטקלי קורקט סיפורי ערש היה היה",
+    "author": "גארנר ג'יימס פין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גאר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0059",
+    "title": "המכשיפה האחרונה",
+    "author": "גדליה עמי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גדל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0060",
+    "title": "הינשוף שראה הפוך",
+    "author": "גודארד יוסי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גוד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0062",
+    "title": "מימית הפלאים",
+    "author": "גוטמן נחום",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גוט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0065",
+    "title": "אלה קרי הילדה מלפלנד",
+    "author": "גולדברג לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0067",
+    "title": "המפוזר מכפר אזר",
+    "author": "גולדברג לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0070",
+    "title": "מסיפורי מר קשקש",
+    "author": "גולדברג לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0071",
+    "title": "מר גוזמאי הבדאי",
+    "author": "גולדברג לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0073",
+    "title": "אגדות אפריקה",
+    "author": "גולדן שירלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0074",
+    "title": "אהבת בת המלך",
+    "author": "גולן אבירמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0075",
+    "title": "עזית במדבר יהודה",
+    "author": "גור מוטה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0076",
+    "title": "הלן ואני",
+    "author": "גורדון נוי איה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0077",
+    "title": "תומס ואני",
+    "author": "גורדון נוי איה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0078",
+    "title": "מי נתן לי נשיקה",
+    "author": "גייזנברג נאוה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גיי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0079",
+    "title": "אילון רואה ירח",
+    "author": "גלברט אבני עפרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גלב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0080",
+    "title": "ספורים לפני השנה",
+    "author": "גליורי דבי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0081",
+    "title": "סיפור מוזר על הפיל חדקצר",
+    "author": "גלעדי קורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גלע",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0082",
+    "title": "גן החלומות האבודים",
+    "author": "גפן יהונתן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גפן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0084",
+    "title": "לילה טוב מפלצת",
+    "author": "גפן שירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גפן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0085",
+    "title": "תמיד ארתור",
+    "author": "גראהם אמנדה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גרא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0088",
+    "title": "הסיפור המופלא של כלי הנגינה",
+    "author": "גרי סטפני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0090",
+    "title": "הפרס הגדול",
+    "author": "גרינר אלוירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0094",
+    "title": "בבר יוגה לפילים",
+    "author": "דה ברונהוף לורן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0096",
+    "title": "הנסיך הזאב",
+    "author": "דה שמברון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0097",
+    "title": "גדי קטן ופזזן",
+    "author": "דה תיס ז'אן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0098",
+    "title": "אני הוא עכברוע",
+    "author": "דונלדסון ג'וליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דונ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0102",
+    "title": "חיפושית חיפושית מה שמעת מה ראית",
+    "author": "דונלדסון ג'וליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דונ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0105",
+    "title": "החתול שיצא לטיול",
+    "author": "דז'טלובסקי דינה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דז'",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0106",
+    "title": "מאי יוני יולי – מול הבית המכושף",
+    "author": "די נור רימונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "די",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0107",
+    "title": "קני והדרקון",
+    "author": "דיטרליצי טוני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0108",
+    "title": "אוליבר וחבורתו",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0110",
+    "title": "טינקרבל ואגדת לעולם לא",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0111",
+    "title": "טינקרבל והאוצר האבוד",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0113",
+    "title": "כל אחד יחיד ומיוחד",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0114",
+    "title": "מולאן",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0115",
+    "title": "משפחת סופרעל",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0117",
+    "title": "פו  הדוב כל אחד יחיד ומיוחד",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0118",
+    "title": "פו הדב עף ברוח",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0119",
+    "title": "פו הדוב חגיגה ביער",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0120",
+    "title": "שלגיה ושבעת הגמדים",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0122",
+    "title": "רובינזון קרוזו",
+    "author": "דפו דניאל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דפו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0123",
+    "title": "מצנפתהמכשפה",
+    "author": "דרמר ארוין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דרמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0124",
+    "title": "יונת של הדואר",
+    "author": "דרשן שרית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דרש",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0125",
+    "title": "אגדות גרים האחים גרים מספרים",
+    "author": "האחים גרים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "האח",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0127",
+    "title": "דורה של מי העקבות האלה",
+    "author": "הול סוזן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0128",
+    "title": "איילת מטיילת",
+    "author": "הופר רינת",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הופ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0130",
+    "title": "גם ביום וגם בלילה",
+    "author": "הורן שפרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0131",
+    "title": "המשפחה המצחיקה שלי",
+    "author": "היגינס כריס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "היג",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0132",
+    "title": "ירושליים שלי",
+    "author": "הירדני תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "היר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0133",
+    "title": "סטוציקדנטי פיית השיניים של נועה",
+    "author": "הירש נוי מיכל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "היר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0136",
+    "title": "איפה הסבלנות",
+    "author": "הראל נירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הרא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0137",
+    "title": "אמא של אסף כותבת מכתבים",
+    "author": "הראל נירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הרא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0140",
+    "title": "הרפתקאותי של טינטין אסירי השמש",
+    "author": "הרז'ה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הרז",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0143",
+    "title": "הגמד סיפורון",
+    "author": "הרשקוביץ' טובה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הרש",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0146",
+    "title": "לילה טוב ירח",
+    "author": "וייז בראון מרגרט",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ויי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0147",
+    "title": "הבריכה הקרירה",
+    "author": "וייט פאול",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ויי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0148",
+    "title": "שלוש ילדות ציירו שלוש פיות",
+    "author": "וייל עודי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ויי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0149",
+    "title": "הנסיך המאושר",
+    "author": "וילד אוסקר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ויל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0151",
+    "title": "אלף לילה ולילה אלדין ומנורת הקסמים",
+    "author": "ויליאמס-אליס אמבל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ויל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0152",
+    "title": "צועקים בשקט",
+    "author": "וינשטיין דליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "וינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0155",
+    "title": "משפחת רובינזון השויצרית",
+    "author": "ויס דוד יוהן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ויס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0157",
+    "title": "המלך עכשיו ומיד",
+    "author": "ויסמן מינקוביץ אירית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ויס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0158",
+    "title": "אבו סיר ואבו קיר",
+    "author": "ולד תרצה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ולד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0159",
+    "title": "טוב לי בקיבוץ",
+    "author": "ולס ברורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ולס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0161",
+    "title": "מיכאלאנג'לו",
+    "author": "ונציה מייק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ונצ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0162",
+    "title": "איפה גרים הגורים דוקטור סוס",
+    "author": "ורת בוני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ורת",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0163",
+    "title": "מולו וצאגי",
+    "author": "זהבי ורתה תמר רונית רוזנטל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זהב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0164",
+    "title": "הפילה בלה חסרת המזל",
+    "author": "זהבי מיכל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זהב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0165",
+    "title": "מסעות אודיאוס",
+    "author": "זהר רקפת",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זהר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0166",
+    "title": "השכונה של פו הדב",
+    "author": "זואפלד קתלין ו",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זוא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0167",
+    "title": "דוביכפת לי והמרדף אחרי האוצר",
+    "author": "זכאי שפרירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זכא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0168",
+    "title": "דני שובבני - העפיפון והרוחות",
+    "author": "זכאי שפרירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זכא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0169",
+    "title": "דני שובבני – ביקור חולים",
+    "author": "זכאי שפרירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זכא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0170",
+    "title": "האוצר על ההר",
+    "author": "זלוף שרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0172",
+    "title": "סביבון הקסם",
+    "author": "זלוף שרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0173",
+    "title": "איך מציירים פוקימון",
+    "author": "זלמי רון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זלמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0174",
+    "title": "ארטיסט כזה",
+    "author": "זלניק אלדו",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זלנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0175",
+    "title": "אולי יש לך קולה",
+    "author": "זרחי נורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זרח",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0177",
+    "title": "דודה מרגלית נפלה אל השלולית",
+    "author": "זרחי נורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זרח",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0178",
+    "title": "הספר הפנטסטי של נורית זרחי",
+    "author": "זרחי נורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זרח",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0179",
+    "title": "חמש דקות מקגנוקה",
+    "author": "זרחי נורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זרח",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0180",
+    "title": "מי מכיר את תנינה",
+    "author": "זרחי נורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זרח",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0181",
+    "title": "שתי ג'ירפות בליל ירח מלא",
+    "author": "זרחי נורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "זרח",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0182",
+    "title": "שוקולד מריר מאד",
+    "author": "חבושי חוה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "חבו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0184",
+    "title": "רגע לפני שנרדמתי",
+    "author": "חלף גבאי דפנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "חלף",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0185",
+    "title": "החיוך של מיכל נעלם",
+    "author": "טאולו טויה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טאו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0186",
+    "title": "אלף בית של אהבה",
+    "author": "טהרלב יורם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טהר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0187",
+    "title": "הדודה שלי מרחוב הנביאים",
+    "author": "טהרלב יורם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טהר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0188",
+    "title": "הספר הגדול של יורם טהרלב",
+    "author": "טהרלב יורם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טהר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0189",
+    "title": "המטבח של ברבאמא",
+    "author": "טיסון אנט",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0190",
+    "title": "התיק של טינקי וינקי",
+    "author": "טלאטאביז",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טלא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0191",
+    "title": "ההרפתקאה הגדולה של פו הדב",
+    "author": "טלקינגטון ברוס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טלק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0193",
+    "title": "עודד המלוכלך",
+    "author": "לפיד שולמית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לפי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0195",
+    "title": "מי הוא זה ואיזה הוא",
+    "author": "מאיר מירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מאי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0197",
+    "title": "סיפורים שהמצאתי לבד",
+    "author": "מאירסון גיא",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מאי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0198",
+    "title": "האם אגלה למור",
+    "author": "מגן רבקה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מגן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0200",
+    "title": "נסיך של סוכר",
+    "author": "מודי פיאונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מוד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0201",
+    "title": "הברוגז של ליאור",
+    "author": "מודן שולה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מוד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0204",
+    "title": "שרלוק הולמס ותעלומת התכשיט הכחול",
+    "author": "מויה רוסה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מוי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0206",
+    "title": "טעות לעולם חוזרת",
+    "author": "מושון לבנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מוש",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0207",
+    "title": "מחיפזון יוצא אסון",
+    "author": "מושון לבנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מוש",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0208",
+    "title": "ילד יום וילד לילה",
+    "author": "מזיא עדנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מזי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0210",
+    "title": "מסעות קסומים – שודדי ים",
+    "author": "מילר דגמר ה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מיל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0212",
+    "title": "מעשה בעכבר שלא רצה להיות עכבר",
+    "author": "מנור אהוד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מנו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0213",
+    "title": "עושה הימים",
+    "author": "מסונט פסקל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מסו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0215",
+    "title": "אני...ג'ין",
+    "author": "מקדונל פטריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מקד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0216",
+    "title": "אני ותמר סיפור די מוזר",
+    "author": "מרום יובל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מרו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0217",
+    "title": "פחדרון בארון",
+    "author": "מרסר מאיר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מרס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0218",
+    "title": "אנדנדינו",
+    "author": "נאור לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "נאו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0220",
+    "title": "ללטף גב של צב",
+    "author": "נאור לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "נאו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0223",
+    "title": "אבא של עמליה נוסע לאוסטרליה",
+    "author": "נבו אשכול",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "נבו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0224",
+    "title": "שנה קטנה בחיי",
+    "author": "נבו דניה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "נבו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0225",
+    "title": "האשה הכי כועסת בעולם",
+    "author": "ניב קובי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ניב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0228",
+    "title": "הדבורה והדבש",
+    "author": "נתני יצחק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "נתנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0229",
+    "title": "הרפתקותיה של יחדוקא",
+    "author": "סונסון מרי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סונ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0230",
+    "title": "סיפור מן הדגים",
+    "author": "סוסנר יונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סוס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0231",
+    "title": "ירמיהו ואבן הפלאים",
+    "author": "סטיג ויליאם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0233",
+    "title": "אלף",
+    "author": "סטפס רוקסן רות",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטפ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0234",
+    "title": "אני מבננה",
+    "author": "סטרוביסקי הילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0235",
+    "title": "תפוח לשבת",
+    "author": "סיגלית לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סיג",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0236",
+    "title": "אגדות בחרוזים - פינוקיו",
+    "author": "סידון אפריים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סיד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0237",
+    "title": "הגן על הקרחת",
+    "author": "סידון אפריים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סיד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0239",
+    "title": "הירח",
+    "author": "סידון אפריים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סיד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0240",
+    "title": "התנך בחרוזים",
+    "author": "סידון אפריים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סיד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0245",
+    "title": "הנרי איום ונורא",
+    "author": "סימון פרנצ'סקה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סימ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0246",
+    "title": "בלה דונה מכשפה בתחילת דרכה",
+    "author": "סימס רות",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סימ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0247",
+    "title": "כובעים למכירה",
+    "author": "סלובודקינה אספיר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0250",
+    "title": "רחוב סומסום אריק פוחד לישון",
+    "author": "סמרס טיש",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0251",
+    "title": "רחוב סומסום השקר הקטן של אריק",
+    "author": "סמרס טיש",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0252",
+    "title": "רחוב סומסום קנקן התה השבור",
+    "author": "סמרס טיש",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0253",
+    "title": "אדם והפרח",
+    "author": "סנונית מיכל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סנו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0256",
+    "title": "הספינה הקטנה",
+    "author": "סרר ג סנט",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סרר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0258",
+    "title": "מזבוב ועד פיל",
+    "author": "ע.הלל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ע.ה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0259",
+    "title": "כשגל עוצמת עיניים",
+    "author": "עברון לי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "עבר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0260",
+    "title": "שי ועגנון שלושה סיפורים",
+    "author": "עגנון שי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "עגנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0261",
+    "title": "מי אוהב אותי",
+    "author": "עדולה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "עדו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0265",
+    "title": "אגדות הארמון הקסום",
+    "author": "עומר דבורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "עומ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0266",
+    "title": "בן ציון והסביבון הראשון",
+    "author": "עומר דבורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "עומ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0268",
+    "title": "מאגדה לאגדה",
+    "author": "עומר דבורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "עומ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0269",
+    "title": "עוד ועוד אגדות",
+    "author": "עומר דבורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "עומ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0274",
+    "title": "המחשב החדש של מילי",
+    "author": "פול קורקי ותומס ולרי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0276",
+    "title": "שודדי הים במסע הנועז",
+    "author": "פטר וולף קךאוס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פטר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0277",
+    "title": "הפיה לילי ובת הים הקטנה",
+    "author": "פינסטרבוש מוניקה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0278",
+    "title": "אני קטנה בינתיים",
+    "author": "פיץ' שרי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פיץ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0279",
+    "title": "אורי ואורית קוראים עוד ועוד",
+    "author": "פיש נחשון תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פיש",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0280",
+    "title": "אני אוהב לקשקש על הלוח",
+    "author": "פיש נחשון תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פיש",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0281",
+    "title": "אבא ואמא יוצאים מהכלים",
+    "author": "פלדמן צח",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פלד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0282",
+    "title": "צפרדע פוחד",
+    "author": "פלטהאוס מקס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פלט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0283",
+    "title": "אוליביה מצילה את הקרקס",
+    "author": "פלקונר איאן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פלק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0284",
+    "title": "לאן נעלם הירח",
+    "author": "פנגר רולף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פנג",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0290",
+    "title": "השושנה והציפור",
+    "author": "פרנקל אלונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פרנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0291",
+    "title": "ספר הירח",
+    "author": "פרנקל אלונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פרנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0292",
+    "title": "שיר קטן",
+    "author": "פרנקל אלונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פרנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0293",
+    "title": "אני בכלל לא עייפה ואני לא הולכת לישון",
+    "author": "צ'יילד לורן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "צ'י",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0294",
+    "title": "הזהרו מזאבים שקופצים מסיפורים",
+    "author": "צ'יילד לורן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "צ'י",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0295",
+    "title": "אליס בארץ הפלאות",
+    "author": "צ'יצ'סטר קלרק אמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "צ'י",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0296",
+    "title": "החלום הקסום של דומבי",
+    "author": "ציבלין אורן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ציב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0299",
+    "title": "יוסף וכותונת הפסים",
+    "author": "צרפתי שולמית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "צרפ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0300",
+    "title": "משה בתבה",
+    "author": "צרפתי שולמית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "צרפ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0302",
+    "title": "תבת נח",
+    "author": "צרפתי שולמית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "צרפ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0305",
+    "title": "יצירת הפאר של הפיל המצייר",
+    "author": "קואוואס מישל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קוא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0308",
+    "title": "יופי של עולם",
+    "author": "קור פאול",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0311",
+    "title": "איך מציירים דמויות קומיקס",
+    "author": "קורבנט גראהם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0313",
+    "title": "בטח יש גם ענקים קטנים",
+    "author": "קורשונוב אירינה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0314",
+    "title": "מחפשים את גודו",
+    "author": "קימל צלה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קימ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0316",
+    "title": "סיפורי דוקא ככה שירו של הקנגרו הזקן והטוב",
+    "author": "קיפלינג רודיארד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קיפ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0318",
+    "title": "האם הנועזה",
+    "author": "קיפניס דבורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קיפ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0319",
+    "title": "אגדות אנדרסן",
+    "author": "קיפניס לוין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קיפ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0327",
+    "title": "יוליוס",
+    "author": "קלינגסהיים טריגווה ב",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0329",
+    "title": "רמונה הולכת לכתה א",
+    "author": "קלירי בברלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0330",
+    "title": "פייר",
+    "author": "קניוק יורם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קני",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0331",
+    "title": "פתאום באמצע הלילה",
+    "author": "קפון שי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קפו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0332",
+    "title": "רוני ארנבונת רוצה הכל",
+    "author": "קפלן מייקל ב",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קפל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0333",
+    "title": "החטא ועונשוקו",
+    "author": "קרינר זזי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0334",
+    "title": "הזחל הרעב",
+    "author": "קרל אריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קרל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0335",
+    "title": "בית מטיל בגן",
+    "author": "קרמר עדנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קרמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0336",
+    "title": "חגיגה מתחת לארון",
+    "author": "קרמר עדנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קרמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0337",
+    "title": "מה תאכל האגודל",
+    "author": "קרמר עדנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קרמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0338",
+    "title": "עכברון הביתה שב",
+    "author": "קרמר עדנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קרמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0339",
+    "title": "מפלצות הן יפות",
+    "author": "קרן עדי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קרן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0340",
+    "title": "עכבר הספריה",
+    "author": "קרק דניאל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קרק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0342",
+    "title": "מלך הקרקס",
+    "author": "ראובני א",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ראו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0343",
+    "title": "אמא מה הבאת לי",
+    "author": "ראובני נעמי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ראו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0344",
+    "title": "אז איפה אני הייתי",
+    "author": "רביניאן דורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רבי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0346",
+    "title": "אף אחד לא רוצה אותי",
+    "author": "רוברטס שרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0347",
+    "title": "שתיל השוקולד של אלעד",
+    "author": "רווה אלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0348",
+    "title": "תחרות גביע הזהב",
+    "author": "רווה אלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0349",
+    "title": "רוני מקרוני לא רוצה שום חוג",
+    "author": "רוזובסקי מירי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוז",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0350",
+    "title": "המסע המפלא לארץ המילים",
+    "author": "רוזנטל רוביק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוז",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0351",
+    "title": "חנות המילים של נעם",
+    "author": "רוזנטל רוביק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוז",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0353",
+    "title": "הסוד של צופית",
+    "author": "רות מרים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רות",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0356",
+    "title": "מה קרה לרותי",
+    "author": "רטיש מרגרט",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רטי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0358",
+    "title": "קוראים לי דורה",
+    "author": "ריקי כריסטין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ריק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0359",
+    "title": "שותפים לחיים",
+    "author": "רן אודי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0360",
+    "title": "בוף סיפור מהחיים",
+    "author": "שגב זיוה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שגב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0361",
+    "title": "ממה באמת עשוי הירח",
+    "author": "שוורץ זהר ויגאל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שוו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0362",
+    "title": "שירת הים של דנה",
+    "author": "שומרון מירי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שומ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0363",
+    "title": "שרלוטה והזאבים",
+    "author": "שטונר אנו וילסון הנריקה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שטו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0364",
+    "title": "המגרה הסגורה של טטקרה",
+    "author": "שילון לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שיל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0365",
+    "title": "גל מהחלל",
+    "author": "שיר סמדר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שיר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0367",
+    "title": "גלי שוחת מכתבים",
+    "author": "שיר סמדר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שיר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0368",
+    "title": "דבי חבובי עושה כמו גדול",
+    "author": "שיר סמדר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שיר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0370",
+    "title": "טל מלך בערך",
+    "author": "שיר סמדר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שיר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0373",
+    "title": "כן גורו ןלא גורו",
+    "author": "שלונסקי אברהם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0374",
+    "title": "הכנה נחמה",
+    "author": "שליו מאיר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0376",
+    "title": "דוק מחפש בית",
+    "author": "שמי אהרון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שמי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0377",
+    "title": "יופי של מספרים",
+    "author": "שמי אהרון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שמי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0378",
+    "title": "לנצח את הפחד",
+    "author": "שמעוני לאה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שמע",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0379",
+    "title": "חתול ירוק",
+    "author": "שנהב חיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שנה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0380",
+    "title": "ענק האדמה",
+    "author": "שנהב חיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שנה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0381",
+    "title": "תעלולי צמד חמד",
+    "author": "שנהב חיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שנה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0382",
+    "title": "בדשא יש פרח",
+    "author": "שניר מיריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שני",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0383",
+    "title": "לאיבוד הלך לי הזבוב",
+    "author": "שניר מיריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שני",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0384",
+    "title": "לילה דוב",
+    "author": "שניר מיריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שני",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0385",
+    "title": "למה כל לילה אני עיפה",
+    "author": "שניר מיריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שני",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0387",
+    "title": "והארץ הזו היא שלי",
+    "author": "שפירא יורם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שפי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0388",
+    "title": "ספורו של משולש ורד",
+    "author": "שקדי אסתי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שקד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0390",
+    "title": "דנידין וחבורתו יוצאים לפעולה",
+    "author": "שריג און",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0391",
+    "title": "דנידין מקים חבורה",
+    "author": "שריג און",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0392",
+    "title": "הרפתקאות דני הרואה ואינו נראה",
+    "author": "שריג און",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0393",
+    "title": "משלי לה פונטן הארנבת והצב",
+    "author": "שריג שרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0394",
+    "title": "משלי לה פונטן רוח הצפון והשמש",
+    "author": "שריג שרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0395",
+    "title": "סינדרלה",
+    "author": "שריג תומר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0396",
+    "title": "סיפורי לילה טוב",
+    "author": "תומס טיג",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "תומ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0401",
+    "title": "סיפו סיפור לא גמור",
+    "author": "אלבשן יובל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0402",
+    "title": "יומן אמיתי לגמרי של אינדיאני במשרה חלקית",
+    "author": "אלכסי שרמן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלכ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0410",
+    "title": "ווינטר בלו ילדת פיות ענקי האבן",
+    "author": "ארבליך בריפמן אשכר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0413",
+    "title": "מה שקרה לברנבי ברוקט",
+    "author": "בוין ג'ון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בוי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0414",
+    "title": "רוני ומכתב האהבה",
+    "author": "בומה יוליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בומ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0415",
+    "title": "השרביט והחרב - אלגחון נחש הים",
+    "author": "בליד אדם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0416",
+    "title": "השרביט והחרב - ארקטין מפלצת השלג",
+    "author": "בליד אדם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0417",
+    "title": "השרביט והחרב - עוגרם ענק ההרים",
+    "author": "בליד אדם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0418",
+    "title": "השרביט והחרב - פרסון אש הסוס",
+    "author": "בליד אדם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0419",
+    "title": "החמישיה מתלכדת",
+    "author": "בלייטון אניד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0420",
+    "title": "השביעיה הסודית חוקרת",
+    "author": "בלייטון אניד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0421",
+    "title": "השביעיה הסודית מנצחת",
+    "author": "בלייטון אניד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0422",
+    "title": "חבורת הבלשים והכלב בתעלומת המלכה השחורה",
+    "author": "בלייטון אניד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0423",
+    "title": "יומני הסודי ביותר 2",
+    "author": "בנטון ג'ים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0424",
+    "title": "יומני הסודי ביותר 4",
+    "author": "בנטון ג'ים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0428",
+    "title": "שבוע המכשפות",
+    "author": "ג'ונס דיאנה ווין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ג'ו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0429",
+    "title": "נעמת לי מאד",
+    "author": "גדליה עמי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גדל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0430",
+    "title": "מרגל בתוך הבית",
+    "author": "גור בתיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0432",
+    "title": "חוג התריסר - אודם",
+    "author": "גייר קרסטין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גיי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0435",
+    "title": "הרפתקאותיו של רובין הוד",
+    "author": "גרין רוג'ר לנסלין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גרי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0438",
+    "title": "נער ושמו סמית",
+    "author": "גרפילד ליאון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גרפ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0442",
+    "title": "מסיפורי עובדיה הסבל",
+    "author": "דגן אביגדור",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דגן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0444",
+    "title": "נו ואני",
+    "author": "דה ויגאן דלפין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0446",
+    "title": "החיפוש אחר וונדלה",
+    "author": "דיטרליצי טוני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0447",
+    "title": "מרד בזמן",
+    "author": "דשנר ג'יימס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דשנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0449",
+    "title": "סתם גרייס",
+    "author": "הארפר צ'ריס מריקל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "האר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0450",
+    "title": "בנות בנים וכל מיני עניינים כח המשיכה",
+    "author": "הופקינס קתי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הופ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0452",
+    "title": "שלושת הבלשים בתעלומת טירת האימים",
+    "author": "היצ'קוק אלפרד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "היצ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0453",
+    "title": "הסיפור המופלא של הלן קלר",
+    "author": "היקוק לורנה א",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "היק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0454",
+    "title": "לורה לי גולדג",
+    "author": "המחברת של פייג'",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "המח",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0461",
+    "title": "אוקסנה פולוק הקרב על מגדל הזכוכית",
+    "author": "וולף סנדרין ופלישוטה אן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "וול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0463",
+    "title": "באפי ציידת הערפדים ירח זאב ערבות",
+    "author": "וורנהולט ג'ון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "וור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0465",
+    "title": "סלטה לאחור",
+    "author": "ורטה זהבי תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ורט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0468",
+    "title": "בן המלך והעני",
+    "author": "טווין מרק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טוו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0469",
+    "title": "תום סוייר בלש",
+    "author": "טווין מרק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טוו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0472",
+    "title": "מה שהסתרתי בבטן",
+    "author": "טפר יונה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טפר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0474",
+    "title": "בנים הכי טוב לגמרי",
+    "author": "יהב גליה",
+    "genres": [
+      "עיון"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "יהב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0477",
+    "title": "פאקס מוט הקללה",
+    "author": "לארסון אוסה וקורסל אינגלה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לאר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0482",
+    "title": "הילדים מרחוב הרעשנים",
+    "author": "לינדגרן אסטריד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0488",
+    "title": "פייבלהייבן עלייתו של כוכב הערב",
+    "author": "מול ברנדון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0495",
+    "title": "האניגמה במבצע קציצה",
+    "author": "מורג אורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0497",
+    "title": "הסוס הטרויאני",
+    "author": "מורלי ג'קלין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0498",
+    "title": "חבורת הכדורגל הפרועה 1 עומרי המאסטרו",
+    "author": "מזנק יואכים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מזנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0499",
+    "title": "האקדמיה לערפדים נשיקת צללים",
+    "author": "מיד רישל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מיד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0501",
+    "title": "מתחת ליער פרא",
+    "author": "מלוי קולין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0502",
+    "title": "ההצהרה",
+    "author": "מלי ג'מה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0503",
+    "title": "המלאך של זפי",
+    "author": "מקוי הילרי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מקו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0504",
+    "title": "השד מכיתה ז",
+    "author": "מקושינסקי קורנל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מקו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0505",
+    "title": "הכל על חירות",
+    "author": "מרון נגה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מרו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0508",
+    "title": "לאסי חוזרת הביתה",
+    "author": "נייט אריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ניי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0510",
+    "title": "חמישה ילדים והזהו",
+    "author": "נסבית אדית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "נסב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0511",
+    "title": "לפעמים רגע אחד מספיק",
+    "author": "סביר מיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סבי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0513",
+    "title": "הסייח השחור",
+    "author": "סואל אנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סוא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0516",
+    "title": "האהבה היא כמו גבינה",
+    "author": "סטילטון ג'רונימו",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0517",
+    "title": "מסתורי פירמידת הגבינה",
+    "author": "סטילטון ג'רונימו",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0520",
+    "title": "ספטימוס אופל",
+    "author": "סייג' אנג'י",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סיי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0521",
+    "title": "ספטימוס היפ מסא",
+    "author": "סייג' אנג'י",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סיי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0524",
+    "title": "בון המרוץ הגדול",
+    "author": "סמית ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0525",
+    "title": "בון זמן הסוף",
+    "author": "סמית ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0527",
+    "title": "בון עין הסערה",
+    "author": "סמית ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0528",
+    "title": "בון ציידי האוצר",
+    "author": "סמית ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0529",
+    "title": "בון קוטל הדרקונים",
+    "author": "סמית ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0531",
+    "title": "יוני הערפד חלק שני המאבק",
+    "author": "סמית ל.ג'",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0532",
+    "title": "הידי בת ההרים",
+    "author": "ספירי יוהנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ספי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0534",
+    "title": "המסע אל קצה העולם",
+    "author": "פאטו אדית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פאט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0537",
+    "title": "הדחליל ומשרתו",
+    "author": "פולמן פיליפ",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0540",
+    "title": "אדם האבן",
+    "author": "פונקה קורנליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פונ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0541",
+    "title": "כשף של דיו",
+    "author": "פונקה קורנליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פונ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0543",
+    "title": "מוות של דיו",
+    "author": "פונקה קורנליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פונ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0544",
+    "title": "הכד של מאדימבה",
+    "author": "פורמנץ אלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0545",
+    "title": "ממלכת טרביתיה",
+    "author": "פטרסון קתרין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פטר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0548",
+    "title": "מר אל כאן אנה",
+    "author": "פין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פין",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0551",
+    "title": "ציידת הערפדים",
+    "author": "פרוסט ג'אנין",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פרו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0552",
+    "title": "נייט הגדול הולך על כל הקופה",
+    "author": "פרס לינקולן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פרס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0553",
+    "title": "קלריס בין בצרות עם אותיות",
+    "author": "צ'יילד לורן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "צ'י",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0563",
+    "title": "אמא תגידי זה נכון",
+    "author": "קופר אירית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קופ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0565",
+    "title": "תו קטלני",
+    "author": "קורמן גורדון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0568",
+    "title": "וויל גאלוז והטרול נחש בטן",
+    "author": "קיילטי דרק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קיי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0570",
+    "title": "אריק רקס הסוד של אשונה",
+    "author": "קינגסלי קאזה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0571",
+    "title": "אריק רקס/החיפוש אחר האמת",
+    "author": "קינגסלי קאזה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0573",
+    "title": "יומנו של חנון הצלע השלישית",
+    "author": "קיני ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0574",
+    "title": "יומנו של חנון הקש האחרון",
+    "author": "קיני ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0575",
+    "title": "יומנו של חנון מכת קור",
+    "author": "קיני ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0576",
+    "title": "יומנו של חנון משחקי מזל",
+    "author": "קיני ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0577",
+    "title": "יומנו של חנון קיץ קטלני",
+    "author": "קיני ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0578",
+    "title": "יומנו של חנון רודריק שולט",
+    "author": "קיני ג'ף",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0581",
+    "title": "עולמה של רמונה",
+    "author": "קלירי בברלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0582",
+    "title": "רמונה בת 8",
+    "author": "קלירי בברלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0584",
+    "title": "הכתה המעופפת",
+    "author": "קסטנר אריך",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קסט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0585",
+    "title": "פצפנת ואנטון",
+    "author": "קסטנר אריך",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קסט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0586",
+    "title": "הצמיד הקסום",
+    "author": "רודה אמילי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0587",
+    "title": "ממלכת הפיות – פיות הפרחים",
+    "author": "רודה אמילי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0590",
+    "title": "איפה פה זה אנגליה",
+    "author": "רווה דני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0594",
+    "title": "מאלאדר קסם הקמע",
+    "author": "רוטנר ליאת",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0596",
+    "title": "עד הבת מיווה זה יעבור",
+    "author": "רום נועה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רום",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0597",
+    "title": "אולימפיאדת הראשנים",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0600",
+    "title": "ג'ינג'י או לאן נעלמו ארגזי התפוחים",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0603",
+    "title": "ג'ינג'י מי פינצ'ר את אופני הבי אם אקס",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0605",
+    "title": "ג'ינג'י שלושת הפשקולים",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0606",
+    "title": "היה ראדאר ואיננו",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0607",
+    "title": "הנזירים מואדי קלט",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0608",
+    "title": "הקרב נגד האלרגן העקשן",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0614",
+    "title": "מנהרת הזמן השבת השחורה",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0615",
+    "title": "מנהרת הזמן מגן ירושליים",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0616",
+    "title": "מנהרת הזמן מסע המושבות",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0617",
+    "title": "מנהרת הזמן ירושליים במצור",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0623",
+    "title": "שוד קברי הצדיקים בגליל",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0625",
+    "title": "ג'סטין קייס",
+    "author": "רוסוף מג",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0631",
+    "title": "אוטולין והחתולה הצהובה",
+    "author": "רידל כריס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ריד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0632",
+    "title": "ווקס קורות קצעולם",
+    "author": "רידל כריס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ריד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0634",
+    "title": "אודסה עושה את זה שוב",
+    "author": "ריינהרט דיינה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ריי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0635",
+    "title": "בן נפטון גיבורי האולימפוס 2",
+    "author": "ריירדן ריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ריי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0636",
+    "title": "מבוך העצמות",
+    "author": "ריירדן ריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ריי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0640",
+    "title": "צל הנחש",
+    "author": "ריירדן ריק",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ריי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0645",
+    "title": "המסע של תיקה",
+    "author": "שקין אסתר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שקי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0646",
+    "title": "החברות הכי טובות משלושה יוצא אחד",
+    "author": "שרודר פטריציה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0647",
+    "title": "האינציקלופדיה של המיתולוגיה",
+    "author": "",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0952",
+    "title": "ספר השיאים",
+    "author": "גינס",
+    "genres": [
+      "עיון"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib0999",
+    "title": "נושא הקונכיה",
+    "author": "דיוואקרוני צ'יטרה בנרג'י",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1176",
+    "title": "אמא משעמם לי",
+    "author": "אבידר טשרנוביץ ימימה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1177",
+    "title": "דבי של סבתא יוצא לצפון",
+    "author": "אבידר טשרנוביץ ימימה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1179",
+    "title": "ההרפתקה הנועזת על חומות ירושליים",
+    "author": "אבס שלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1180",
+    "title": "החיים והמות ביד הלשון",
+    "author": "אבס שלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1181",
+    "title": "המסע הנועז בנחל התנינים",
+    "author": "אבס שלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1182",
+    "title": "מה שגמד אחד ושני דרקונים יכולים לעשות",
+    "author": "אבס שלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1183",
+    "title": "מעשיות חיות",
+    "author": "אבס שלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1185",
+    "title": "סיפורי שוטים טפשים וכסילים",
+    "author": "אבס שלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1186",
+    "title": "ספר סיפורי ג'ק",
+    "author": "אבס שלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1187",
+    "title": "רועת האוזים",
+    "author": "אבס שלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1188",
+    "title": "מעשיות אלף לילה ולילה",
+    "author": "אגמון גליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אגמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1189",
+    "title": "אמא תחזור עוד מעט",
+    "author": "אדר תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אדר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1190",
+    "title": "בת המלך והצפרדע",
+    "author": "אדר תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אדר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1191",
+    "title": "מתי כבר אהיה גדולה",
+    "author": "אדר תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אדר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1192",
+    "title": "הרפתקאות דון קיחוטה",
+    "author": "אוביולס אנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אוב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1193",
+    "title": "מוצרט הקוסם הקטן",
+    "author": "אוביולס אנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אוב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1194",
+    "title": "מסעו של כריסטופר קולומבוס",
+    "author": "אוביולס אנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אוב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1195",
+    "title": "חלום עיר החכמים",
+    "author": "אופק אוריאל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אופ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1197",
+    "title": "וינסטון מצ'רצ'יל מאבקו של דב אחד בהתחממות כדור הארץ",
+    "author": "אוקימוטו ג'ין דייויס",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אוק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1199",
+    "title": "ידידי בפקעות המשי",
+    "author": "אורגד דורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1200",
+    "title": "ידידיי הגוזלים במרפסת הדרומית",
+    "author": "אורגד דורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1205",
+    "title": "אני רוצה שפתאום",
+    "author": "אטלס יהודה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אטל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1206",
+    "title": "סימן שאני גדול",
+    "author": "אטלס יהודה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אטל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1207",
+    "title": "איתמר מטפס על קירות",
+    "author": "איל אורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "איל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1209",
+    "title": "ברלה בים",
+    "author": "איל אורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "איל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1210",
+    "title": "ברלה ברלה צא החוצה",
+    "author": "איל אורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "איל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1211",
+    "title": "החייט האמיץ",
+    "author": "איל אורה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "איל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1213",
+    "title": "החייט והירח",
+    "author": "אילן חגית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "איל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1214",
+    "title": "מונו הוא לא ארנב",
+    "author": "אילני גור",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "איל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1215",
+    "title": "דייב המגעיל והכלב הפלצן",
+    "author": "אלדריג' ג'ים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1216",
+    "title": "אבא הכי חזק",
+    "author": "אלומה נרי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1217",
+    "title": "אוגי",
+    "author": "אלומה נרי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1218",
+    "title": "הסוס הכי מהיר בעולם",
+    "author": "אלומה נרי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1219",
+    "title": "רון העכברון בגשם וברוח",
+    "author": "אלון מרים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1220",
+    "title": "שניים על אופניים",
+    "author": "אלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1223",
+    "title": "שלושה פרפרים",
+    "author": "אליגון רוז תלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1224",
+    "title": "מפצח האגוזים",
+    "author": "אליגון תלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1225",
+    "title": "פרח לב הזהב",
+    "author": "אליגון תלמה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1226",
+    "title": "ערגה ילדה מן החלומות",
+    "author": "אלמגור גילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1227",
+    "title": "גילגיל רוצה כלב",
+    "author": "אלמוג רות",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלמ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1228",
+    "title": "יומו של אפורי",
+    "author": "אנגלברט",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אנג",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1231",
+    "title": "ילדה שלא מן העולם הזה",
+    "author": "אפלפלד אהרון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אפל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1232",
+    "title": "אל ארץ סיר הבשר",
+    "author": "אפשטיין חוה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אפש",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1233",
+    "title": "אלוורה מכשף מכשר בהחלט",
+    "author": "ארבליך בריפמן אשכר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1234",
+    "title": "אניס מכשיפה מתחילה",
+    "author": "ארבליך בריפמן אשכר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1236",
+    "title": "זוטה מכשפה חסרת השראה",
+    "author": "ארבליך בריפמן אשכר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1237",
+    "title": "פיצה תות",
+    "author": "ארגמן ברנע עמליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארג",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1238",
+    "title": "לליאורה מתנדנדת השן",
+    "author": "ארולד מרליזה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1239",
+    "title": "מיטב סיפורי סבא",
+    "author": "אריאל יהודה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1240",
+    "title": "הנסיך הצפרדע",
+    "author": "אשדות הדסה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אשד",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1241",
+    "title": "אמא הולכת לכתה א",
+    "author": "אתר תרצה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אתר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1243",
+    "title": "מעשה במילה לא מובנת",
+    "author": "בוקאי מורדי ושולי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בוק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1244",
+    "title": "סיפורי אבוקדו",
+    "author": "בורלא עודד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1245",
+    "title": "קופיקו בתל אביב",
+    "author": "בורנשטיין לזר תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1247",
+    "title": "קופיקו ספריקה הספרית הבדרנית",
+    "author": "בורנשטיין לזר תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1249",
+    "title": "צברוח",
+    "author": "ביין מאירה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ביי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1250",
+    "title": "ריף נולד מן הים",
+    "author": "בילי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ביל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1252",
+    "title": "ניסן ורחמים אל הים הכחול",
+    "author": "בלטמן רעיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1253",
+    "title": "ניסן ורחמים מדוע אבדו המטבעות ?",
+    "author": "בלטמן רעיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1254",
+    "title": "ניסן ורחמים משיכון ב מחבואים",
+    "author": "בלטמן רעיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1255",
+    "title": "ניסן ורחמים צפורים בראש",
+    "author": "בלטמן רעיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1257",
+    "title": "מחשבלדת ואני",
+    "author": "בן גור נעמי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1258",
+    "title": "שדה של מטריות",
+    "author": "בן גור נעמי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1261",
+    "title": "דודה טובה היה לה כובע",
+    "author": "בן דור דתיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1262",
+    "title": "סיפורים לפרפר נחמד",
+    "author": "בן דור דתיה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1266",
+    "title": "עוד סיפור אחרון",
+    "author": "בן דרור עילם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1267",
+    "title": "על הגשר הקט",
+    "author": "בן דרור עילם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1268",
+    "title": "העכביש מרסל",
+    "author": "בן יוסף בר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1270",
+    "title": "אני ברק",
+    "author": "בן כנען עוזי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1271",
+    "title": "זיגי ושליצי",
+    "author": "בן כנען עוזי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1272",
+    "title": "ילד אחד רגיל",
+    "author": "בן כנען עוזי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1273",
+    "title": "תבת המכתבים של הקיפוד",
+    "author": "בן מרדכי אלישע",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1274",
+    "title": "שלושה מכל דבר",
+    "author": "בן שחר רינה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1275",
+    "title": "כשאבא היה קטן",
+    "author": "בנזימן חגית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנז",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1277",
+    "title": "יומני הסודי ביותר 2 המכנסיים שלי מכושפים",
+    "author": "בנטון ג'ים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1278",
+    "title": "יומני הסודי ביותר 1 אני לא מאמינה שזה קורה לי",
+    "author": "בנטון ג'ים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1279",
+    "title": "יומני הסודי ביותר 12 אני (בדיוק כמוכם אבל הרבה יותר טובה)",
+    "author": "בנטון ג'ים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1280",
+    "title": "יומני הסודי ביותר 3 האם אני הנסיכה או הצפרדע",
+    "author": "בנטון ג'ים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1283",
+    "title": "לילה טוב נמר קטן",
+    "author": "בנקס קיט",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1285",
+    "title": "שייקספיר כטוב בעינכם",
+    "author": "בר אהרון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1286",
+    "title": "שייקספיר רומיאו ויוליה",
+    "author": "בר אהרון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1287",
+    "title": "מי מכיר את הנסיכה ספיר",
+    "author": "בר אל דליה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1288",
+    "title": "הכי חזק בגן",
+    "author": "בר אל עדינה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1596",
+    "title": "אז איפה הייתי אני",
+    "author": "רבינייאן דורית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רבי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1678",
+    "title": "חרוזים אדומים",
+    "author": "ברגשטיין פניה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ברג",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1681",
+    "title": "הקטר שרצה לנסוע לרומא",
+    "author": "שלו מאיר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שלו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1682",
+    "title": "קיש קיש קריא",
+    "author": "בנזימן חגית",
+    "genres": [
+      "שירה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנז",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1685",
+    "title": "השרביט והחרב - פרסון איש הסוס",
+    "author": "בליד אדם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1687",
+    "title": "מנהרת הזמן - תכנית החלוקה",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1695",
+    "title": "אריק רקס עין הדרקון",
+    "author": "קינגסלי קאזה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1696",
+    "title": "הסודות של ניקולס פלמל בן האלמוות האלכימאי",
+    "author": "סקוט מייקל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סקו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1698",
+    "title": "עיר של מלאכים נופלים",
+    "author": "קלייר קסנדרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1701",
+    "title": "שומרי ההיסטוריה - ראשית הסערה",
+    "author": "דיבן דמיאן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1702",
+    "title": "ילדי המנורה - סיפורם של השדים הלוחמים",
+    "author": "קר פיליפ ב'",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קר",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1705",
+    "title": "הנמלה פיסטינה והקוסקוס",
+    "author": "כץ יואב",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "כץ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1715",
+    "title": "בנות בנים וכל מיני עניינים - כח המשיכה",
+    "author": "הופקינס קתי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הופ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1721",
+    "title": "מתחת למרפסת",
+    "author": "אפךט קתי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אפך",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1728",
+    "title": "שמש במרום זורחת",
+    "author": "ע הלל",
+    "genres": [
+      "שירה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ע ה",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1734",
+    "title": "נייט הגדול בפוקוס",
+    "author": "פרס לינקולן",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פרס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1738",
+    "title": "ריקודים זיקוקים ושפע תלתלים - גיאורג פרידריך הנדל",
+    "author": "שאול ניצה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שאו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1739",
+    "title": "מי דופק בדלת",
+    "author": "אבס מיכאל",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1744",
+    "title": "ההיעלמות",
+    "author": "גפן ברוך",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גפן",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1745",
+    "title": "אותיות זה משחק ילדים",
+    "author": "יעקובוביץ אביבה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "יעק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1746",
+    "title": "הדבורה מאיה ואלכסנדר העכבר",
+    "author": "",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הדב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1748",
+    "title": "קפטן תחתונים והאסלות המחסלות",
+    "author": "פילקי דאב",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פיל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1749",
+    "title": "קפטן תחתונים והפלישה מהחלל של מנהלות המטבח המרשעות ממש",
+    "author": "פילקי דאב",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פיל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1762",
+    "title": "אחרון פיראטי הרקיע קורות קצעולם",
+    "author": "סטיוארט פול",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1763",
+    "title": "חמשה ילדים והזהו",
+    "author": "נסביט אדית",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "נסב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1764",
+    "title": "המפתח של גורג ליקום",
+    "author": "הוקינג לוסי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הוק",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1765",
+    "title": "לקסיקון השדים",
+    "author": "ריס ברנן שרה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ריס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1767",
+    "title": "גנב החרבות",
+    "author": "לרנג'יס פיטר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לרנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1769",
+    "title": "צופן הקיסר",
+    "author": "קורמן גורדון",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1770",
+    "title": "המחברת של פייג",
+    "author": "גולבגי לורה לי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1780",
+    "title": "ילדת הפעמון",
+    "author": "סמל נאוה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סמל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1781",
+    "title": "מה עושים עם רעיון ?",
+    "author": "ימאדה קובי",
+    "genres": [
+      "דרמה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ימא",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1785",
+    "title": "איך להיות ויקינג",
+    "author": "המלומד ארי",
+    "genres": [
+      "עיון"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "המל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1793",
+    "title": "ליקוי חמה",
+    "author": "מאייר סטפני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מאי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1796",
+    "title": "יומני הסודי ביותר השנה השנייה 1 - בית ספר אולי די כבר עם הדבר הזה?",
+    "author": "בנטון ג'ים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בנט",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1797",
+    "title": "מנהרת הזמן 66 - מועדון המעריצים של רשי",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1798",
+    "title": "אריק והדבה",
+    "author": "דקל גלעד",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דקל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1808",
+    "title": "קדחת הקרח יום הולדת לאנה  אחים קטנים",
+    "author": "דיסני",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "דיס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1810",
+    "title": "ג'ויליוס ובונה השעונים",
+    "author": "הייר טים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "היי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1812",
+    "title": "גילגי",
+    "author": "לינדגרן  א",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1825",
+    "title": "חבורת הכדורגל הפרועה עידו הקיצוני הימני המהיר ביותר בעולם",
+    "author": "מזנק יואכים",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מזנ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1826",
+    "title": "השרביט והחרב גחלת ציפור האש",
+    "author": "בליד אדם",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בלי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1839",
+    "title": "פרטיזן ושמו צוציק",
+    "author": "ליבמן אירנה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ליב",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1840",
+    "title": "משימה עולמית 21- מלחמת היהלומים",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1846",
+    "title": "המלאך האחרון",
+    "author": "פיצפטריק בקה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פיצ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1850",
+    "title": "בריסינגר או שבע ההבטחות של אראגון הורג-הצל וסאפירה בג'ארסקולאר",
+    "author": "פאוליני כריסטופר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "פנטסיה. ספר שלישי בסדרה.",
+    "shelf": "פאו",
+    "series": "הירושה",
+    "publisher": "כנרת זמורה-ביתן"
+  },
+  {
+    "id": "lib1909",
+    "title": "הביתה מערבות השמש",
+    "author": "אורלב אורי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "הספר נכתב בהשראת סיפורו של אלי פז-פוזניאק... .",
+    "shelf": "אור",
+    "series": "",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib1911",
+    "title": "מנהרת הזמן דרך כוכב מיעקב",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1928",
+    "title": "צ'יינה",
+    "author": "נורית זרחי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "נור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1937",
+    "title": "נסיכת הפיות - ההזמנה",
+    "author": "ג'קסון ג'ק",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שער מעטפת. מנוקד.",
+    "shelf": "גקס",
+    "series": "ספור קסום במכתבים",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib1943",
+    "title": "הציפור ששכחה לעוף",
+    "author": "וולוך דינה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "וול",
+    "series": "",
+    "publisher": "דני ספרים"
+  },
+  {
+    "id": "lib1948",
+    "title": "יומני הנסיכה",
+    "author": "קבוט מג",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קבו",
+    "series": "צעירים",
+    "publisher": "ספרית פועלים"
+  },
+  {
+    "id": "lib1950",
+    "title": "ילד האריות : הקרקס",
+    "author": "קורדר זיזו",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2005",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספר ראשון בטרילוגיה.",
+    "shelf": "קור",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib1966",
+    "title": "קופיקו והמחשב",
+    "author": "בורנשטיין לזר תמר",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib1985",
+    "title": "מרק שבור",
+    "author": "ולנטין ג'ני",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ולנ",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib1993",
+    "title": "דני שובבני - מכירה כללית",
+    "author": "זכאי שפרירה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1990",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "רפס",
+    "shelf": "זכא",
+    "series": "דני שובבני",
+    "publisher": "מודן"
+  },
+  {
+    "id": "lib1999",
+    "title": "מעריצה",
+    "author": "ראוול ריינבו",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ראו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2032",
+    "title": "ששה גבורים גדולים - במיתולוגיות של עמי העולם",
+    "author": "סמיט שהם",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "סמי",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2034",
+    "title": "מסע בארץ האור : ספור ופעילויות לפיתוח מודעות עצמית...",
+    "author": "שטנצלר דליה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "שטנ",
+    "series": "",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib2035",
+    "title": "ילד האריות : המרדף",
+    "author": "קורדר זיזו",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספר שני בטרילוגיה.",
+    "shelf": "קור",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib2036",
+    "title": "ילד האריות : האמת",
+    "author": "קורדר זיזו",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספר שלישי בטרילוגיה.",
+    "shelf": "קור",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib2081",
+    "title": "הכל נשאר במשפחה",
+    "author": "רוה אלי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "רוה",
+    "series": "",
+    "publisher": "דני ספרים"
+  },
+  {
+    "id": "lib2082",
+    "title": "אריה הספריה",
+    "author": "קנודסן מישל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "קנו",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2100",
+    "title": "ספורי סבתא : ספורים שטוב לשמוע וקל לקרוא",
+    "author": "אופק בינה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "",
+    "year": "[1998]",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "ספו",
+    "series": "",
+    "publisher": "עופרים"
+  },
+  {
+    "id": "lib2105",
+    "title": "בת המלך המלך והצפרדע : (אגדה לקטנים ולגדולים)",
+    "author": "אדר תמר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1988",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "בראש השער : זה הספור שכל אחד יודע על בת המלך והצפרדע. מנוקד.",
+    "shelf": "אדר",
+    "series": "",
+    "publisher": "ספרית מעריב"
+  },
+  {
+    "id": "lib2111",
+    "title": "ידידות ארוגה ברשת",
+    "author": "גדליה עמי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גדל",
+    "series": "סדרת נעורים",
+    "publisher": "ספרית פועלים"
+  },
+  {
+    "id": "lib2118",
+    "title": "משלים פילוסופיים לילדים",
+    "author": "פיקמל מישל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פיק",
+    "series": "",
+    "publisher": "אחוזת בית"
+  },
+  {
+    "id": "lib2206",
+    "title": "טוסה טוסה מטאטוסא",
+    "author": "",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טוס",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2208",
+    "title": "המסע שהתחיל באמפיתום",
+    "author": "שריג רוני",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "שרי",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2209",
+    "title": "איפה אפי? משחק התמונות הגדול!",
+    "author": "הנדפורד מרטין",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הנד",
+    "series": "איפה אפי?",
+    "publisher": "שוקן"
+  },
+  {
+    "id": "lib2216",
+    "title": "הצמיד האבוד של בת-הים",
+    "author": "הרווד בת'",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שער מעטפת. מנוקד.",
+    "shelf": "הרו",
+    "series": "",
+    "publisher": "קוראים"
+  },
+  {
+    "id": "lib2218",
+    "title": "הבלרינה הקטנה",
+    "author": "הריס סו",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "לספר מצרף צמיד מזל אמתי! שער מעטפת. מנוקד.",
+    "shelf": "הרי",
+    "series": "",
+    "publisher": "קוראים"
+  },
+  {
+    "id": "lib2219",
+    "title": "הספר הגדול של דתיה בן דור",
+    "author": "בן-דור דתיה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1993",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "בן-ד",
+    "series": "",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib2220",
+    "title": "עוד חיבוק אחד",
+    "author": "אלמוג רות",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלמ",
+    "series": "צעירים",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib2230",
+    "title": "בונג'ון",
+    "author": "גיל ומעין",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גיל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2237",
+    "title": "קשה להיות מכשפה : שבעה ספורים על מכשפות אחרות",
+    "author": "שמי אהרן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1994",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "קשה",
+    "series": "",
+    "publisher": "י' שרברק"
+  },
+  {
+    "id": "lib2289",
+    "title": "תעלומת הגביע השביעי",
+    "author": "רון-פדר גלילה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "",
+    "year": "[1991]",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": "אדם"
+  },
+  {
+    "id": "lib2314",
+    "title": "הדרקון שבקש אבירים לנשנש",
+    "author": "וולארד אלי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "וול",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2341",
+    "title": "ג'ינג'י או עבם במטע התפוחים",
+    "author": "רון-פדר גלילה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2001",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "רון",
+    "series": "ג'ינג'י",
+    "publisher": "מודן"
+  },
+  {
+    "id": "lib2352",
+    "title": "הסייר העשירי - מכת ברק",
+    "author": "גור דורית מיה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2416",
+    "title": "זה בסדר אני לובשת תחתונים ממש גדולים! : עוד מיומנה של ג'ורג'יה ניקולסון",
+    "author": "רניסון לואיז",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2002",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רני",
+    "series": "הסדרה הצעירה",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib2422",
+    "title": "אנשים קטנים בבטן",
+    "author": "לבנה חנה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "לבנ",
+    "series": "פשוש",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib2436",
+    "title": "השושנים האנגליות : הילדה החדשה",
+    "author": "מדונה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "מדו",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2437",
+    "title": "השושנים האנגליות : ההצגה חיבת להמשך",
+    "author": "מדונה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "מדו",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2464",
+    "title": "להיות אני : רומן לנוער",
+    "author": "רון-פדר גלילה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2005",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "להתבגר",
+    "publisher": "מודן"
+  },
+  {
+    "id": "lib2471",
+    "title": "הבכור לבית אבי",
+    "author": "עומר דבורה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "נדפס לראשונה בתשכח 1967",
+    "shelf": "עומ",
+    "series": "ספריה לנוער",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib2485",
+    "title": "ככה זה קרה : ספורים נפלאים של רודיארד קיפלינג",
+    "author": "קיפלינג רודירד",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "קיפ",
+    "series": "",
+    "publisher": "קוראים"
+  },
+  {
+    "id": "lib2492",
+    "title": "פיות הפרחים",
+    "author": "רודה אמילי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספר שני. מנוקד.",
+    "shelf": "רוד",
+    "series": "ממלכת הפיות",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2501",
+    "title": "גנוב על העולם : ספר החפושים הגדול",
+    "author": "קינג טריי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2017",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "קינ",
+    "series": "המיניונים",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib2515",
+    "title": "להיות בת יחידה (סיפורה של גל)",
+    "author": "רון-פדר גלילה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "להתבגר",
+    "publisher": "מודן"
+  },
+  {
+    "id": "lib2517",
+    "title": "בסוד תיק המחבלים",
+    "author": "מרון נגה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1994",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מרו",
+    "series": "",
+    "publisher": "נעם"
+  },
+  {
+    "id": "lib2528",
+    "title": "קללת הזר המוזר",
+    "author": "קנטור אברם",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1995",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "קנט",
+    "series": "",
+    "publisher": "ספרית פועלים"
+  },
+  {
+    "id": "lib2532",
+    "title": "אמא'לה דינוזאור!",
+    "author": "דוד אמה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "דוד",
+    "series": "",
+    "publisher": "קוראים"
+  },
+  {
+    "id": "lib2536",
+    "title": "הכבשה רחלי והאוצר האבוד",
+    "author": "סקוטון רוב",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "סקו",
+    "series": "מטר לילדים",
+    "publisher": "מטר"
+  },
+  {
+    "id": "lib2537",
+    "title": "צמריקו",
+    "author": "הלקוסקי לזלי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "הלק",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2538",
+    "title": "אני מרלן העכברית האמצעית",
+    "author": "לשר דוריס",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "לשר",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2543",
+    "title": "שודדי-הים במסע נועז",
+    "author": "וולף קלאוס-פטר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "וול",
+    "series": "ילדים קוראים",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib2569",
+    "title": "פיטר ראביט",
+    "author": "טל דנה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טל",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2570",
+    "title": "פגוע בשוק הנחשים (משימה עולמית 27)",
+    "author": "רון פדר עמית גלילה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רון",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2634",
+    "title": "יומנו של סרט הפרק הבא",
+    "author": "קיני ג'ף",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2679",
+    "title": "סיפורי ממלכת נרניה",
+    "author": "לואיס קליב סטפלס",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "האלבום המלא עם ציורי הצבע.",
+    "shelf": "לוא",
+    "series": "",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib2687",
+    "title": "שירים רעים לילדים טובים",
+    "author": "סידון אפרים",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1991",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "סיד",
+    "series": "",
+    "publisher": "מקסוול-מקמילן-כתר"
+  },
+  {
+    "id": "lib2722",
+    "title": "זאתי",
+    "author": "רות מרים",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "רות",
+    "series": "",
+    "publisher": "אגם"
+  },
+  {
+    "id": "lib2723",
+    "title": "אילת מטילת",
+    "author": "הופר רינת",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2002",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "הופ",
+    "series": "",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib2725",
+    "title": "קואלה-לי",
+    "author": "פוקס מם",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1996",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פוק",
+    "series": "מטר לילדים",
+    "publisher": "מטר"
+  },
+  {
+    "id": "lib2728",
+    "title": "כנור הקסם",
+    "author": "לוי-יממורי רן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לוי",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2729",
+    "title": "תום החתול הכחל",
+    "author": "טלרק יפה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1990",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "טלר",
+    "series": "נגה-קט",
+    "publisher": "נגה"
+  },
+  {
+    "id": "lib2732",
+    "title": "שועל",
+    "author": "לוי-יממורי רן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "",
+    "year": "[2002]",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לוי",
+    "series": "",
+    "publisher": "הר-יער"
+  },
+  {
+    "id": "lib2736",
+    "title": "הנשיקה שחמקה",
+    "author": "מלינג דיויד",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2004",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "מלי",
+    "series": "מטר לילדים",
+    "publisher": "מטר"
+  },
+  {
+    "id": "lib2737",
+    "title": "קפודה עם מזודה : ועוד כמה שירי חידה",
+    "author": "הופר רינת",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "הופ",
+    "series": "",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib2738",
+    "title": "מעשה בפ'א סוףית",
+    "author": "אלתרמן נתן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2000",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "אלת",
+    "series": "",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib2754",
+    "title": "הפילה של הקוסם",
+    "author": "די-קמילו קייט",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "די-",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2770",
+    "title": "גלי לא מגלה סודות",
+    "author": "שיר סמדר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1998",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "שיר",
+    "series": "",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib2772",
+    "title": "חוות החיות : אגדה",
+    "author": "אורול ג'ורג'",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2001",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אור",
+    "series": "",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib2838",
+    "title": "הרפתקאות דוד אריה במדבר השויצרי",
+    "author": "לוי ינץ",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "לוי",
+    "series": "",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib2839",
+    "title": "הרפתקאות דוד אריה בג'ונגל הסיבירי",
+    "author": "לוי ינץ",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "לוי",
+    "series": "הרפתקאות דוד אריה",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib2848",
+    "title": "גלי מכיתה ג",
+    "author": "שיר סמדר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1997",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "בשער: גלי מכתה ג'. מנוקד.",
+    "shelf": "שיר",
+    "series": "",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib2852",
+    "title": "מסבה בגן העכברים",
+    "author": "כהן שלומית",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1991",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "כהן",
+    "series": "פשוש",
+    "publisher": "ספרית פועלים"
+  },
+  {
+    "id": "lib2853",
+    "title": "מעשיות בידל הפייטן - תירגמה מן הרונות המקוריות הרמיוני גריינג'ר",
+    "author": "רולינג ג'ואנה קתלין",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רול",
+    "series": "מעולמו של הארי פוטר",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib2869",
+    "title": "אחיות",
+    "author": "טלגמאייר ריינה",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "טלג",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2876",
+    "title": "ספר הנשים המדהימות",
+    "author": "לורנס סנדרה",
+    "genres": [
+      "עיון"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2877",
+    "title": "דרקונית הלילה",
+    "author": "הווארת נעמי",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הוו",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2878",
+    "title": "איפה הלמה?",
+    "author": "מורן פול",
+    "genres": [
+      "עיון"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מור",
+    "series": "",
+    "publisher": ""
+  },
+  {
+    "id": "lib2911",
+    "title": "על חלד קטן שרצה לדעת מי עשה לו על הראש",
+    "author": "הולצווארת ורנר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1996",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "הול",
+    "series": "",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib2916",
+    "title": "הסנדלר והספר העתיק : אגדות-עם הונגריות",
+    "author": "חבושי חוה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1995",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "חבו",
+    "series": "לקרא קסום",
+    "publisher": "מסדה"
+  },
+  {
+    "id": "lib2919",
+    "title": "השד על ההר",
+    "author": "חכם רונית",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2004",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "חכם",
+    "series": "",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib2921",
+    "title": "ארטיכאילו",
+    "author": "בוקאי-בוכסוילר טלי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2004",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "בוק",
+    "series": "",
+    "publisher": "דני ספרים"
+  },
+  {
+    "id": "lib2923",
+    "title": "חבורת כח-המח ופרשת הגנבות בכתה",
+    "author": "אביב זוהר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1993",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אבי",
+    "series": "ראשית קריאה",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib2924",
+    "title": "חבורת כח-המח (2) והבלגן בחדר המנהלת",
+    "author": "אביב זוהר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1995",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "אבי",
+    "series": "ראשית קריאה",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib2925",
+    "title": "להציל את כוכב הים : ספר הספורים הירוק",
+    "author": "אבס שלמה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "אבס",
+    "series": "",
+    "publisher": "עגור"
+  },
+  {
+    "id": "lib2929",
+    "title": "הספור המשלם",
+    "author": "אילני אלדד",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "איל",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib2966",
+    "title": "גלי במשימת השרדות",
+    "author": "שיר סמדר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "שיר",
+    "series": "",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3042",
+    "title": "הלויתן והשבלול",
+    "author": "דונלדסון ג'וליה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "דונ",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib3052",
+    "title": "חמור-עף",
+    "author": "כץ אבנר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "כץ",
+    "series": "",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib3055",
+    "title": "סבתא בשלה דיסה : שירי אצבעות ומשחק",
+    "author": "בן-אליעזר רבקה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1994",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "סבת",
+    "series": "",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib3059",
+    "title": "ספור מוזר ומלא תמהון על האי הקטן האי הגיון",
+    "author": "סידון אפרים",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1993",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "סיד",
+    "series": "כתר-לי",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib3090",
+    "title": "שבע אבני הנסיכה",
+    "author": "טפר יונה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2002",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד באופן חלקי.",
+    "shelf": "טפר",
+    "series": "קריאת-עשרה",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib3105",
+    "title": "תמיד ילווה אותו צל : (סיפור שהיה פעם ויותר לא יהיה)",
+    "author": "בוצ'ן יעקב",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2001",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בוצ",
+    "series": "קריאת-עשרה",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib3131",
+    "title": "האי של נים",
+    "author": "אור ונדי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "אור",
+    "series": "",
+    "publisher": "איגואנה"
+  },
+  {
+    "id": "lib3134",
+    "title": "לשועל אין גרבים",
+    "author": "דונלדסון ג'וליה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2005",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "דונ",
+    "series": "אגדות מיער הבלוטים",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib3144",
+    "title": "קופיקו חוקר טבע",
+    "author": "בורנשטין תמר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2000",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "בור",
+    "series": "הסדרה לעדוד הקריאה העצמית ולהבנת הנקרא",
+    "publisher": "דני ספרים"
+  },
+  {
+    "id": "lib3146",
+    "title": "חבורת המערוך בפעלה",
+    "author": "גנור רוני",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "גנו",
+    "series": "קריאת-כיף",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib3148",
+    "title": "התעלולים של אמיל",
+    "author": "לינדגרן אסטריד",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "לינ",
+    "series": "",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3155",
+    "title": "מעשה שקרה בארץ לחם",
+    "author": "אהרונוף חגית",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1998",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "אהר",
+    "series": "",
+    "publisher": "ספריית בית אל"
+  },
+  {
+    "id": "lib3159",
+    "title": "סיפורה של פוליאנה",
+    "author": "פורטר אלינור ה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2001",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פור",
+    "series": "",
+    "publisher": "עופרים"
+  },
+  {
+    "id": "lib3160",
+    "title": "פדט הקטנה",
+    "author": "סנד ז'ורז'",
+    "genres": [
+      "ספרות יפה"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "נוער"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סנד",
+    "series": "",
+    "publisher": "ספרי כתרי"
+  },
+  {
+    "id": "lib3190",
+    "title": "איך זבוב הולך הפוך?",
+    "author": "גולדוין מרטין מ",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1997",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "גול",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib3213",
+    "title": "קוראים לי סטילטון ג'רונימו סטילטון",
+    "author": "סטילטון ג'רונימו",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "ג'רונימו סטילטון",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3224",
+    "title": "הנער בפיג'מת הפסים : אגדה",
+    "author": "בוין ג'ון",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בוי",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3225",
+    "title": "ווינטר בלו ילדת-פיות : סוף העולם",
+    "author": "ארבליך-בריפמן אשכר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארב",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3226",
+    "title": "ווינטר בלו ילדת פיות : סופת הקסם",
+    "author": "ארבליך-בריפמן אשכר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארב",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3227",
+    "title": "ווינטר בלו ילדת-פיות : טווי החלומות",
+    "author": "ארבליך-בריפמן אשכר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארב",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3228",
+    "title": "ווינטר בלו ילדת פיות : אבני הכוח",
+    "author": "ארבליך-בריפמן אשכר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2005",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארב",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3241",
+    "title": "הנסיכה קטי וסוס הפוני הכסוף",
+    "author": "פרנץ' ויויאן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פרנ",
+    "series": "מועדון הנסיכות",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib3242",
+    "title": "הנסיכה דיזי והדרקון המשגע",
+    "author": "פרנץ' ויויאן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פרנ",
+    "series": "מועדון הנסיכות",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib3244",
+    "title": "הנסיכה אמילי והפיה היפהפיה",
+    "author": "פרנץ' ויויאן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פרנ",
+    "series": "מועדון הנסיכות",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib3245",
+    "title": "הנסיכה אליס ונעל הזכוכית",
+    "author": "פרנץ' ויויאן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פרנ",
+    "series": "מועדון הנסיכות במגדלים הכסופים",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib3247",
+    "title": "הנסיכה קטי והמטאטא המפזז",
+    "author": "פרנץ' ויויאן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פרנ",
+    "series": "מועדון הנסיכות במגדלים הכסופים",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib3248",
+    "title": "הנסיכה שרלוט והורד המכשף",
+    "author": "פרנץ' ויויאן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פרנ",
+    "series": "מועדון הנסיכות במגדלים הכסופים",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib3255",
+    "title": "היה היה ירח",
+    "author": "בקשי לנג איריס",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שער מעטפת. מנוקד.",
+    "shelf": "בקש",
+    "series": "",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib3286",
+    "title": "ברד בטעם זבובים לרוזן",
+    "author": "סטילטון ג'רונימו",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib3351",
+    "title": "קפטן תחתונים : ספורי גבורה",
+    "author": "פילקי דב",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "פיל",
+    "series": "קפטן תחתונים",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib3354",
+    "title": "דמעות של אש",
+    "author": "עומר דבורה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1984",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד. ספור עלילותיה של צביה לובטקין בגטו ורשה במלחמת העולם השניה.",
+    "shelf": "עומ",
+    "series": "",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib3361",
+    "title": "חיות בתמונות",
+    "author": "בומון אמילי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד. כולל מפתח.",
+    "shelf": "בומ",
+    "series": "",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib3365",
+    "title": "אנטוניו ויולדי - ג'ינג'י כל עונות השנה",
+    "author": "שאול ניצה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2004",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "ויו(שאו)",
+    "series": "צלילי קסם",
+    "publisher": "מודן"
+  },
+  {
+    "id": "lib3366",
+    "title": "הצפורים",
+    "author": "דלפוס קלוד",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1999",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "דלפ",
+    "series": "התגליות הראשונות שלי",
+    "publisher": "כנרת"
+  },
+  {
+    "id": "lib3373",
+    "title": "שלשה גנבים וגנבת",
+    "author": "",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מבחר ספורים. מנוקד.",
+    "shelf": "שלש",
+    "series": "ספורים לקוראים הצעירים",
+    "publisher": "עופרים"
+  },
+  {
+    "id": "lib3374",
+    "title": "החרב הנרדמת",
+    "author": "מורפורגו מיקל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מור",
+    "series": "הסדרה הצעירה",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib3375",
+    "title": "רמי הצב שלא רצה להיות צב",
+    "author": "חכם רונית",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "",
+    "year": "[1996]",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "חכמ",
+    "series": "",
+    "publisher": "קוראים"
+  },
+  {
+    "id": "lib3376",
+    "title": "מלכה מאי",
+    "author": "פרסלר מרים",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "פרס",
+    "series": "",
+    "publisher": "עם-עובד"
+  },
+  {
+    "id": "lib3377",
+    "title": "צבע הפנינה",
+    "author": "יוקל אנה מריה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1991",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "יוק",
+    "series": "ספרית דן חסכן",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib3393",
+    "title": "המסע לעיר הצעצועים האבודים : ספורו של חיל שחפש את עיר הצעצועים האבודים כפי שספר לי פיל",
+    "author": "רובין גידי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שער מעטפת. מנוקד.",
+    "shelf": "רוב",
+    "series": "",
+    "publisher": "ציבלין"
+  },
+  {
+    "id": "lib3457",
+    "title": "פעמיים נויה : סיפורן של שתי בנות ...",
+    "author": "יהלום משה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "",
+    "year": "[2001]",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "יהל",
+    "series": "",
+    "publisher": "דור"
+  },
+  {
+    "id": "lib3499",
+    "title": "שחר בארץ מדין",
+    "author": "פינקלשטיין גיא",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [
+      "ילדים"
+    ],
+    "language": "עברית",
+    "era": "",
+    "year": "",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שחר הבכר מחכה לפגוש את מרחבי המדבר",
+    "shelf": "פינ",
+    "series": "",
+    "publisher": "נגב גליל יזמות"
+  },
+  {
+    "id": "lib3603",
+    "title": "שר הטבעות - אחוות הטבעת : המדריך האלבומי לסרט",
+    "author": "פישר ג'וד",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2001",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד באופן חלקי.",
+    "shelf": "פיש",
+    "series": "",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib3609",
+    "title": "לוכד הפהוקים",
+    "author": "שרי נדב",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספר זה נכתב בהשראת 'הדרקון בקופסת השעון' מאת ג'ין קרייג. מנוקד.",
+    "shelf": "שרי",
+    "series": "",
+    "publisher": "סער"
+  },
+  {
+    "id": "lib3611",
+    "title": "שתי ידיים שמאליות",
+    "author": "רוה אלי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1989",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "רוה",
+    "series": "",
+    "publisher": "מודן"
+  },
+  {
+    "id": "lib3615",
+    "title": "יפה את מולדתי! : מעשיות וספורים",
+    "author": "קיפניס לוין",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1994",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "קיפ",
+    "series": "",
+    "publisher": "אלומות"
+  },
+  {
+    "id": "lib3616",
+    "title": "סוסידה",
+    "author": "קיפניס לוין",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1990",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "קיפ",
+    "series": "",
+    "publisher": "תמוז-מודן"
+  },
+  {
+    "id": "lib3621",
+    "title": "טרופותי",
+    "author": "דונלדסון ג'וליה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2000",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "דונ",
+    "series": "",
+    "publisher": "הד ארצי - הוצאה לאור"
+  },
+  {
+    "id": "lib3627",
+    "title": "המשאלה של ארנב",
+    "author": "סטיוארט פול",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2001",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "סטי",
+    "series": "",
+    "publisher": "הד ארצי - הוצאה לאור"
+  },
+  {
+    "id": "lib3628",
+    "title": "יד ביד עם אלהים",
+    "author": "סנונית מיכל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2000",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "סנו",
+    "series": "",
+    "publisher": "ציפור"
+  },
+  {
+    "id": "lib3630",
+    "title": "אין אריות כאלה!",
+    "author": "רובינגר אמי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "רוב",
+    "series": "",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib3640",
+    "title": "תזמרת מפלצות הקצב",
+    "author": "רובינגר אמי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "רוב",
+    "series": "",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib3654",
+    "title": "דמעות ורדות",
+    "author": "גולדברג חנה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שער מעטפת. יצא לאור לראשונה בשנת 2001. מנוקד.",
+    "shelf": "גול",
+    "series": "",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib3676",
+    "title": "נרניה: האריה המכשפה וארון הבגדים",
+    "author": "לואיס קליב סטפלס",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2005",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "הספר ראה אור בעברית לראשונה בשנת תשנא 1961 בהוצאת מחברות לספרות בה של שושנה וידל.",
+    "shelf": "לוא",
+    "series": "סיפורי ממלכת נרניה",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib3715",
+    "title": "ספורים בחתולים",
+    "author": "עומר דבורה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2005",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "עומ",
+    "series": "",
+    "publisher": "אחוזת ספר"
+  },
+  {
+    "id": "lib3721",
+    "title": "אותה קבלו חנם",
+    "author": "זרחי נורית",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1995",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "זרח",
+    "series": "",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib3723",
+    "title": "הספר הגדול של שלומית כהן-אסיף",
+    "author": "כהן שלומית",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1991",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "כהן",
+    "series": "",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib3751",
+    "title": "ילדים שואלים חתני פרס נובל עונים",
+    "author": "שטיקל בטינה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ילד",
+    "series": "",
+    "publisher": "כנרת זמורה-ביתן"
+  },
+  {
+    "id": "lib3787",
+    "title": "עננסי ורוח הים : מספורי איי הדו המערבית",
+    "author": "מאיר מירה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1988",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספורים. מנוקד.",
+    "shelf": "מאי",
+    "series": "",
+    "publisher": "ספרית פועלים"
+  },
+  {
+    "id": "lib3789",
+    "title": "אני לא מאמינה שזה קורה לי - מאת ג'יימי קלי",
+    "author": "בנטון ג'ים",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מעלילות בית-הספר מקרל. מנוקד חלקית.",
+    "shelf": "בנט",
+    "series": "יומני הסודי ביותר",
+    "publisher": "מטר"
+  },
+  {
+    "id": "lib3798",
+    "title": "בנות בנים וכל מיני עניינים - פיתוי מסוכן",
+    "author": "הופקינס קתי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הופ",
+    "series": "",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib3802",
+    "title": "אי-בוד",
+    "author": "לובה מירה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2002",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ראה אור לראשונה בעברית בשנת 1947 בהוצאת טברסקי בעיבודה של ימימה טשרנוביץ בשם 'אי הילדים'.",
+    "shelf": "לוב",
+    "series": "מרגנית",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib3876",
+    "title": "טאו טאו דב הפנדה הקטן שלם שלם לעולם",
+    "author": "שיר יהודית",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1986",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שיר",
+    "series": "",
+    "publisher": "ענבל הוצאה לאור"
+  },
+  {
+    "id": "lib3891",
+    "title": "קופיקו : הבקר הכי מצחיק",
+    "author": "בורנשטין תמר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "בור",
+    "series": "הסדרה לעדוד הקריאה העצמית ולהבנת הנקרא",
+    "publisher": "דני ספרים"
+  },
+  {
+    "id": "lib3914",
+    "title": "מר עצלן",
+    "author": "הרגריבס רוג'ר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2022",
+    "description": "לא נמצא תקציר.",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "הרג",
+    "series": "",
+    "publisher": "תכלת"
+  },
+  {
+    "id": "lib3958",
+    "title": "סבא ספר",
+    "author": "ברקוביץ ריקה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1992",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "ברק",
+    "series": "",
+    "publisher": "באר א' ור' ברקוביץ"
+  },
+  {
+    "id": "lib3974",
+    "title": "בת הים הקטנה",
+    "author": "אנדרסן הנס כריסטיאן",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שער מעטפת. מנוקד.",
+    "shelf": "אנד",
+    "series": "מספורי היה היה",
+    "publisher": "ענבל"
+  },
+  {
+    "id": "lib4004",
+    "title": "הפנטום של אולם המופעים",
+    "author": "סטין רל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1996",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "צמרמורת ---",
+    "publisher": "ספרית מעריב"
+  },
+  {
+    "id": "lib4005",
+    "title": "ברוכים הבאים לארץ הבלהות",
+    "author": "סטין רל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1995",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "צמרמורת ---",
+    "publisher": "ספרית מעריב"
+  },
+  {
+    "id": "lib4110",
+    "title": "וינטו ויד הנפץ",
+    "author": "מאי קרל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1994",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מאי",
+    "series": "הסדרה הקלאסית",
+    "publisher": "ספרית מעריב"
+  },
+  {
+    "id": "lib4543",
+    "title": "קרמר החתול ישן כל הזמן : ספור ערש לפעוטות",
+    "author": "שלו מאיר",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2021",
+    "description": "לא נמצא תקציר",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שער מעטפת. בשער: הוצאת עם עובד. מנוקד. דפים קשיחים.",
+    "shelf": "שלו",
+    "series": "ספר אינטראקטיבי",
+    "publisher": "ספרק טויס"
+  },
+  {
+    "id": "lib4661",
+    "title": "השמיניה בעקבות הקרדינל המוזהב",
+    "author": "אופק עטרה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אופ",
+    "series": "השמיניה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib4776",
+    "title": "מולד הירח",
+    "author": "מאיר סטפני",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "מאי",
+    "series": "דמדומים (ספרית פועלים)",
+    "publisher": "ספרית פועלים"
+  },
+  {
+    "id": "lib4810",
+    "title": "מעבר לקבר",
+    "author": "ווטסון ג'וד",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2011",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "בתחתית השער: מודן הוצאה לאור.",
+    "shelf": "ווט",
+    "series": "39 רמזים",
+    "publisher": "צלטנר"
+  },
+  {
+    "id": "lib4840",
+    "title": "אוצר אגדות המזרח : סיפורים אגדות ומעשיות",
+    "author": "אופק בינה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1995",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אופ",
+    "series": "",
+    "publisher": "עופרים"
+  },
+  {
+    "id": "lib4841",
+    "title": "לידיה מלכת ארץ ישראל",
+    "author": "אורלב אורי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1991",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אור",
+    "series": "כותרת",
+    "publisher": "מקסוול-מקמילן-כתר"
+  },
+  {
+    "id": "lib4845",
+    "title": "אלכס לרנר דפי ואני",
+    "author": "אלמגור גילה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2002",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלמ",
+    "series": "",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib4846",
+    "title": "עץ הדומים תפוס",
+    "author": "אלמגור גילה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1992",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אלמ",
+    "series": "ספרית דן חסכן",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib4855",
+    "title": "סומסום ג'קסון",
+    "author": "בירס בטסי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2002",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ביר",
+    "series": "מרגנית",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib4857",
+    "title": "אחד מכולם : סיפורה של קבוצת 131 ילדי קובנה",
+    "author": "בן-ארצי סופי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "בן-א",
+    "series": "צעירים",
+    "publisher": "הקיבוץ המאוחד"
+  },
+  {
+    "id": "lib4868",
+    "title": "בלגן : אין לאן לחזור",
+    "author": "וודינג כריס",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2011",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספר ההמשך ל'זדון - אין לאן לברוח'.",
+    "shelf": "ווד",
+    "series": "אגם נעורים",
+    "publisher": "אגם"
+  },
+  {
+    "id": "lib4870",
+    "title": "בעיה ענקית",
+    "author": "דיטרליצי טוני",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספר שני מתוך שלושה.",
+    "shelf": "דיט",
+    "series": "בעקבות עלילות ספיידרוויק",
+    "publisher": "מטר"
+  },
+  {
+    "id": "lib4871",
+    "title": "מאי יוני יולי : מול הבית המכשף",
+    "author": "די-נור רימונה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "די-נ",
+    "series": "ראשית קריאה",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib4882",
+    "title": "המפתח הסודי של ג'ורג' ליקום",
+    "author": "הוקינג לוסי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "הוק",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib4885",
+    "title": "השמיניה ותעלומת המסכה הבורמזית",
+    "author": "אופק עטרה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "אופ",
+    "series": "השמיניה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib4889",
+    "title": "אנה ומלך סיאם",
+    "author": "לנדון מרגרט",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לנד",
+    "series": "הסדרה הצעירה",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib4898",
+    "title": "השמנפופים והחדחוטים ; המשמנאים והמרזנאים",
+    "author": "מורואה אנדרי",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2007",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "שני ים בספר אחד ליצירת המופת הקלאסית. המשמנאים והמרזנאים - תרגם מצרפתית אל יעקבוביץ יצא לאור לראשונה בהוצאת יזרעאל 1944.",
+    "shelf": "מור",
+    "series": "",
+    "publisher": "מטר"
+  },
+  {
+    "id": "lib4908",
+    "title": "אחרון פיראטי הרקיע",
+    "author": "סטיוארט פול",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "קורות קצעולם",
+    "publisher": "עם עובד"
+  },
+  {
+    "id": "lib4910",
+    "title": "הדחליל מתעורר בחצות",
+    "author": "סטין רל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1996",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "צמרמורת ---",
+    "publisher": "ספרית מעריב"
+  },
+  {
+    "id": "lib4911",
+    "title": "חוף הרוחות",
+    "author": "סטין רל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1995",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "צמרמורת ---",
+    "publisher": "ספרית מעריב"
+  },
+  {
+    "id": "lib4912",
+    "title": "זעקתו של הג'יני המרושע",
+    "author": "סטין רל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1999",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "סטי",
+    "series": "עשו לעצמכם צמרמורת---",
+    "publisher": "הד ארצי"
+  },
+  {
+    "id": "lib4913",
+    "title": "הילד שלא רצה למות",
+    "author": "סטין רל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "",
+    "year": "[1997]",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "סיפור מתח.",
+    "shelf": "סטי",
+    "series": "מתים מפחד",
+    "publisher": "עמיחי"
+  },
+  {
+    "id": "lib4939",
+    "title": "אריק רקס : עין הדרקון",
+    "author": "קינגסלי קזה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2009",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "קינ",
+    "series": "",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib4943",
+    "title": "הרפתקת אחנאתון",
+    "author": "קר פיליפ",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2008",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "ספר ראשון בסדרה.",
+    "shelf": "קר",
+    "series": "ילדי המנורה",
+    "publisher": "מטר"
+  },
+  {
+    "id": "lib4945",
+    "title": "באד לא באדי",
+    "author": "קרטיס כריסטופר פול",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2002",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד באופן חלקי.",
+    "shelf": "קרט",
+    "series": "מרגנית",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib4946",
+    "title": "אלה המכושפת",
+    "author": "לוין גיל קרסון",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2006",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "לוי",
+    "series": "מרגנית",
+    "publisher": "זמורה-ביתן"
+  },
+  {
+    "id": "lib4947",
+    "title": "איפה פה זה אנגליה?",
+    "author": "רוה דני",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2011",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רוה",
+    "series": "",
+    "publisher": "כנרת זמורה-ביתן"
+  },
+  {
+    "id": "lib4955",
+    "title": "רוקדת בתחתונים : ועוד מיומנה של ג'ורג'יה ניקולסון",
+    "author": "רניסון לואיז",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2005",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רני",
+    "series": "הסדרה הצעירה",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib4956",
+    "title": "נונגה-נונגה : ועוד מיומנה של ג'ורג'יה ניקולסון",
+    "author": "רניסון לואיז",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "רני",
+    "series": "הסדרה הצעירה",
+    "publisher": "כתר"
+  },
+  {
+    "id": "lib4958",
+    "title": "טירת איש-הזאב",
+    "author": "ארקמן אמיל",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1996",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ארק",
+    "series": "קלסיקה לנוער",
+    "publisher": "מ' מזרחי"
+  },
+  {
+    "id": "lib4959",
+    "title": "שיילו",
+    "author": "נילור פיליס רינולדס",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2003",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "ניל",
+    "series": "פרוזהעשרה",
+    "publisher": "משכל"
+  },
+  {
+    "id": "lib4960",
+    "title": "החברות הכי טובות : משלושה יוצא אחד",
+    "author": "שרודר פטריציה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרו",
+    "series": "",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib4961",
+    "title": "החברות הכי טובות : אהבות חדשות",
+    "author": "שרודר פטריציה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "בן-זמננו",
+    "year": "2010",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "",
+    "shelf": "שרו",
+    "series": "",
+    "publisher": "ספר לכל"
+  },
+  {
+    "id": "lib5005",
+    "title": "ג'ינג'י או אמת או חובה",
+    "author": "רון-פדר גלילה",
+    "genres": [
+      "ילדים ונוער"
+    ],
+    "sub_genre": "",
+    "mood": "",
+    "style": "",
+    "audience": [],
+    "language": "עברית",
+    "era": "מודרני",
+    "year": "1987",
+    "description": "",
+    "similar_to": [],
+    "in_library": true,
+    "library_notes": "מנוקד.",
+    "shelf": "רון",
+    "series": "",
+    "publisher": "אדם"
   }
 ];
