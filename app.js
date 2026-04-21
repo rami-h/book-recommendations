@@ -693,8 +693,11 @@
     'פנטזיה': 'ספר פנטזיה',
     'מדע בדיוני': 'מדע בדיוני',
     'אהבה ורומנטיקה': 'רומן רומנטי',
+    'רומנס': 'רומן רומנטי',
     'הומור וסאטירה': 'ספר הומוריסטי',
+    'הוררור': 'ספרות אימה',
     'ממואר': 'ממואר',
+    'ביוגרפיה וממואר': 'ביוגרפיה',
     'קומיקס': 'קומיקס',
     'רומן גרפי': 'רומן גרפי',
     'דיסטופיה': 'דיסטופיה',
@@ -706,6 +709,9 @@
     'קובץ סיפורים': 'אוסף סיפורים',
     'נובלות': 'נובלה',
     'מסות': 'מסות',
+    'סאגה משפחתית': 'סאגה משפחתית',
+    'ריאליזם קסום': 'ריאליזם קסום',
+    'ספרות נוסעים': 'ספרות נוסעים',
     'רומן רומנטי': 'רומן רומנטי',
     'רומן אוטוביוגרפי': 'רומן אוטוביוגרפי',
     'רומן ביוגרפי': 'רומן ביוגרפי',
@@ -751,17 +757,28 @@
     var book  = scoredItem.book;
     var usedTypes = {};
 
-    // ── 1. קשר סמנטי לספר קלט קרוב ────────────────────────────────────────
+    // ── 1. קשר לספר קלט — מעדיף התאמת מאפיינים על פני קרבה סמנטית בלבד ────
     var closestSim = scoredItem.closestSim || 0;
-    if (closestInputBook && closestSim > 0.25) {
-      var sharedFeat = findSharedFeature(book, closestInputBook);
-      if (sharedFeat) {
-        parts.push("\u05D1\u05E8\u05D5\u05D7 \u201C" + closestInputBook.title +
-                   "\u201D \u2014 " + sharedFeat);
-        // סמן שהמוד כבר נוצל כדי למנוע כפילות ב-section 7
-        if (book.mood && book.mood === closestInputBook.mood) usedTypes.mood = true;
+    var referencedBook = null, referencedFeat = null;
+
+    // סרוק את כל ספרי הקלט — קדם כל ספר שיש לו mood / sub_genre משותף
+    for (var mi = 0; mi < matchedBooks.length; mi++) {
+      var sf = findSharedFeature(book, matchedBooks[mi]);
+      if (sf) { referencedBook = matchedBooks[mi]; referencedFeat = sf; break; }
+    }
+    // אין התאמת מאפיינים — חזרה לקרוב הסמנטי
+    if (!referencedBook && closestInputBook && closestSim > 0.25) {
+      referencedBook = closestInputBook;
+    }
+
+    if (referencedBook) {
+      if (referencedFeat) {
+        parts.push("\u05D1\u05E8\u05D5\u05D7 \u201C" + referencedBook.title +
+                   "\u201D \u2014 " + referencedFeat);
+        if (referencedFeat.indexOf("\u05D0\u05D5\u05D5\u05D9\u05E8\u05D4") !== -1) usedTypes.mood = true;
+        if (book.sub_genre && book.sub_genre === referencedBook.sub_genre) usedTypes.sub_genre = true;
       } else if (matchedBooks.length === 1 || closestSim > 0.4) {
-        parts.push("\u05D1\u05E8\u05D5\u05D7 \u201C" + closestInputBook.title + "\u201D");
+        parts.push("\u05D1\u05E8\u05D5\u05D7 \u201C" + referencedBook.title + "\u201D");
       }
     }
 
@@ -781,7 +798,7 @@
     // ── 3. נושאים — הוסר (נתון רועש)
 
     // ── 4. תת-ז'אנר ספציפי ──────────────────────────────────────────────────
-    if (parts.length < 2 && book.sub_genre && !GENERIC_GENRES[book.sub_genre]) {
+    if (parts.length < 2 && !usedTypes.sub_genre && book.sub_genre && !GENERIC_GENRES[book.sub_genre]) {
       var sgLabel = SUB_GENRE_LABELS[book.sub_genre] || book.sub_genre;
       var inputHasSG = matchedBooks.some(function (mb) {
         return mb.sub_genre === book.sub_genre ||
@@ -789,6 +806,7 @@
       });
       if (inputHasSG) {
         parts.push(sgLabel + " שמתאים לכם");
+        usedTypes.sub_genre = true;
       }
     }
 
@@ -818,7 +836,7 @@
         var r5 = reasons5[ri5];
         if (r5.type === 'origin' && r5.items && r5.items.length > 0) {
           // אם כבר הוזכר ספר קלט ספציפי — origin חייב להתאים לו, לא לספר אחר
-          if (closestInputBook && closestInputBook.origin !== r5.items[0]) continue;
+          if (referencedBook && referencedBook.origin !== r5.items[0]) continue;
           parts.push('ספרות ' + r5.items[0] + ' — כמו שאהבתם');
           usedTypes.origin = true;
         }
