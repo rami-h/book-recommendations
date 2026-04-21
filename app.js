@@ -464,21 +464,21 @@
 
   function passesFilters(book) {
     if (state.activeFilters.length === 0) return true;
-    return state.activeFilters.every(function (filter) {
-      if (filter.type === "genre") {
-        return book.genres && book.genres.indexOf(filter.value) !== -1;
-      }
-      if (filter.type === "mood") {
-        return book.mood === filter.value;
-      }
-      if (filter.type === "origin") {
-        return book.origin === filter.value;
-      }
-      if (filter.type === "language") {
-        if (filter.value === "translated") {
-          return book.language && book.language !== "עברית";
-        }
-      }
+    // קיבוץ לפי טיפוס: AND בין טיפוסים, OR בתוך אותו טיפוס
+    var byType = {};
+    state.activeFilters.forEach(function (f) {
+      if (!byType[f.type]) byType[f.type] = [];
+      byType[f.type].push(f.value);
+    });
+    return Object.keys(byType).every(function (type) {
+      var vals = byType[type];
+      if (type === "genre")    return vals.some(function (v) { return book.genres && book.genres.indexOf(v) !== -1; });
+      if (type === "mood")     return vals.some(function (v) { return book.mood === v; });
+      if (type === "origin")   return vals.some(function (v) { return book.origin === v; });
+      if (type === "language") return vals.some(function (v) {
+        if (v === "translated") return book.language && book.language !== "עברית";
+        return true;
+      });
       return true;
     });
   }
@@ -873,7 +873,6 @@
     els.randomBtn = document.getElementById("randomBtn");
     els.clearBtn = document.getElementById("clearBtn");
     els.filtersRow = document.getElementById("filtersRow");
-    els.moodSelect = document.getElementById("moodSelect");
     els.loadingSection = document.getElementById("loadingSection");
     els.resultsSection = document.getElementById("resultsSection");
     els.resultsTitle = document.getElementById("resultsTitle");
@@ -898,10 +897,6 @@
         chip.classList.toggle("active");
         updateActiveFilters();
       });
-    });
-
-    els.moodSelect.addEventListener("change", function () {
-      updateActiveFilters();
     });
 
     setupAutocomplete(0);
@@ -1069,10 +1064,6 @@
     document.querySelectorAll(".filter-chip.active").forEach(function (chip) {
       state.activeFilters.push({ type: chip.dataset.filter, value: chip.dataset.value });
     });
-    var moodVal = els.moodSelect ? els.moodSelect.value : "";
-    if (moodVal) {
-      state.activeFilters.push({ type: "mood", value: moodVal });
-    }
   }
 
   function getUserInputs() {
@@ -1138,7 +1129,6 @@
     state.inputCount = 1;
     els.addBookBtn.classList.remove("hidden");
     document.querySelectorAll(".filter-chip.active").forEach(function (chip) { chip.classList.remove("active"); });
-    if (els.moodSelect) els.moodSelect.value = "";
     state.activeFilters = [];
     hideAll();
     document.querySelector(".book-input").focus();
