@@ -14,7 +14,6 @@
   <div class="app">
     <!-- כותרת ראשית -->
     <header class="header">
-      <button class="settings-btn" id="settingsBtn" title="הגדרות">⚙️</button>
       <div class="logo-area">
         <img src="assets/logo-placeholder.svg" alt="ספריית שחרות" class="logo" />
       </div>
@@ -33,31 +32,6 @@
           <button class="modal-close" id="bookModalClose">✕</button>
         </div>
         <div class="modal-body" id="bookModalBody"></div>
-      </div>
-    </div>
-
-    <!-- מודאל הגדרות -->
-    <div class="modal-overlay hidden" id="settingsModal">
-      <div class="modal">
-        <div class="modal-header">
-          <h2>הגדרות מצב מומחה</h2>
-          <button class="modal-close" id="modalCloseBtn">✕</button>
-        </div>
-        <div class="modal-body">
-          <p class="modal-hint">
-            מצב מומחה משתמש במודל שפה מתקדם כדי להפיק המלצות ברמת ספרן מקצועי. נדרש מפתח גישה אישי שיישמר רק בדפדפן שלכם.
-          </p>
-          <label class="modal-label">מפתח גישה</label>
-          <input type="password" class="modal-input" id="apiKeyInput" placeholder="sk-ant-..." dir="ltr" />
-          <p class="modal-warning">
-            ⚠️ המפתח נשמר רק במחשב שלכם ונשלח ישירות מהדפדפן לשירות המודל. זוהי גרסת ניסוי - לפריסה ציבורית תידרש שכבת שרת ביניים.
-          </p>
-          <div class="modal-actions">
-            <button class="btn btn-primary" id="saveKeyBtn">שמירה</button>
-            <button class="btn btn-ghost" id="clearKeyBtn">מחיקת מפתח</button>
-          </div>
-          <p class="modal-status" id="keyStatus"></p>
-        </div>
       </div>
     </div>
 
@@ -85,26 +59,33 @@
 
         <button class="btn btn-secondary btn-add" id="addBookBtn">+ הוסיפו ספר נוסף</button>
 
-        <div class="options-row">
-          <label class="toggle-label">
-            <input type="checkbox" id="libraryOnlyToggle" />
-            <span class="toggle-switch"></span>
-            <span class="toggle-text">המלצות רק מספרי ספריית שחרות</span>
-          </label>
-          <label class="toggle-label" id="aiModeWrapper">
-            <input type="checkbox" id="aiModeToggle" />
-            <span class="toggle-switch"></span>
-            <span class="toggle-text">✨ מצב מומחה (המלצות ברמת ספרן)</span>
-          </label>
-        </div>
-
         <!-- פילטרים -->
         <div class="filters-row" id="filtersRow">
           <span class="filter-label">סינון:</span>
           <button class="filter-chip" data-filter="genre" data-value="עיון">עיון</button>
-          <button class="filter-chip" data-filter="mood" data-value="קליל">קריאה קלילה</button>
           <button class="filter-chip" data-filter="origin" data-value="ישראלית">ספרות מקור</button>
           <button class="filter-chip" data-filter="language" data-value="translated">מתורגם</button>
+          <select class="filter-select" id="moodSelect">
+            <option value="">מצב רוח...</option>
+            <option value="אבסורדי וייחודי">אבסורדי וייחודי</option>
+            <option value="אינטנסיבי ומציף">אינטנסיבי ומציף</option>
+            <option value="אפי ועשיר">אפי ועשיר</option>
+            <option value="אקשן ועוצמה">אקשן ועוצמה</option>
+            <option value="דיסטופי">דיסטופי</option>
+            <option value="הומוריסטי">הומוריסטי</option>
+            <option value="כבד ומעמיק">כבד ומעמיק</option>
+            <option value="מחמם לב">מחמם לב</option>
+            <option value="מסתורי ואטמוספרי">מסתורי ואטמוספרי</option>
+            <option value="מפחיד ומאיים">מפחיד ומאיים</option>
+            <option value="מרגש ומעורר השראה">מרגש ומעורר השראה</option>
+            <option value="מתח וסאספנס">מתח וסאספנס</option>
+            <option value="נוסטלגי ומרגיע">נוסטלגי ומרגיע</option>
+            <option value="עצוב ומרגש">עצוב ומרגש</option>
+            <option value="פילוסופי-רעיוני">פילוסופי-רעיוני</option>
+            <option value="פנימי ואינטרוספקטיבי">פנימי ואינטרוספקטיבי</option>
+            <option value="קליל ומהנה">קליל ומהנה</option>
+            <option value="רומנטי">רומנטי</option>
+          </select>
         </div>
 
         <div class="action-row">

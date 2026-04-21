@@ -58,14 +58,7 @@
     titleIndex: {},     // normalized title -> book
     authorIndex: {},    // normalized author -> [books]
     bookById: {},       // id -> book
-    // מצב מומחה
-    aiMode: false,
-    apiKey: ""
   };
-
-  var STORAGE_KEY = "shaharut_lib_api_key";
-  var AI_MODEL = "claude-haiku-4-5";
-  var MAX_AI_CANDIDATES = 60;
 
   // ===== אתחול נתונים =====
   function initData() {
@@ -476,14 +469,7 @@
         return book.genres && book.genres.indexOf(filter.value) !== -1;
       }
       if (filter.type === "mood") {
-        // "קריאה קלילה" - ז'אנרים קלים או אווירה קלילה
-        var lightGenres = ["רומנטי", "הומור", "הרפתקאות", "קומיקס"];
-        var lightMoods = ["קליל", "חם", "הומוריסטי", "מרגש", "הרפתקני"];
-        var lightStyles = ["קולח", "פשוט"];
-        var hasLightGenre = book.genres && book.genres.some(function(g) { return lightGenres.indexOf(g) !== -1; });
-        var hasLightMood = toArr(book.mood).some(function(m) { return lightMoods.indexOf(m) !== -1; });
-        var hasLightStyle = toArr(book.style).some(function(s) { return lightStyles.indexOf(s) !== -1; });
-        return hasLightGenre || hasLightMood || hasLightStyle;
+        return book.mood === filter.value;
       }
       if (filter.type === "origin") {
         return book.origin === filter.value;
@@ -497,13 +483,11 @@
     });
   }
 
-  function adultPool(libraryOnly) {
-    return libraryOnly
-      ? state.adultBooks.filter(function(b) { return b.in_library; })
-      : state.adultBooks;
+  function adultPool() {
+    return state.adultBooks;
   }
 
-  function getRecommendations(userInputs, libraryOnly) {
+  function getRecommendations(userInputs) {
     var matchedBooks = [];
     var unmatchedInputs = [];
 
@@ -537,7 +521,6 @@
     if (typeof SemanticRecommender !== "undefined") {
       var semTop = SemanticRecommender.recommend(matchedBooks, state.bookById, {
         excludeIds : profile.input_ids,
-        libraryOnly: libraryOnly,
         topN       : 200
       });
 
@@ -550,7 +533,7 @@
         });
         var inSemTop = {};
         semTop.forEach(function(r) { inSemTop[r.book.id] = true; });
-        var booksPool = adultPool(libraryOnly);
+        var booksPool = adultPool();
 
         // חשב טווח סמנטי לפני ההזרקה — ספרים מוזרקים מקבלים ציון אמצע (semNorm≈0.5)
         // כך בונוס אותו-מחבר (5.0) מספיק כדי להכריע על פני ספרים גנריים
@@ -611,7 +594,7 @@
     }
 
     // ── מסלול מטאדטה בלבד (fallback) ─────────────────────────────────────────
-    var candidates = adultPool(libraryOnly);
+    var candidates = adultPool();
     var scored = [];
 
     candidates.forEach(function (book) {
@@ -634,10 +617,7 @@
     });
 
     if (topResults.length === 0) {
-      var noResultMsg = libraryOnly
-        ? "לא מצאנו המלצות מתאימות בקטלוג ספריית שחרות. נסו לבטל את הסינון, או להזין ספרים נוספים."
-        : "לא מצאנו המלצות מתאימות. נסו להזין ספרים אחרים או לשנות את הסינון.";
-      return { success: false, message: noResultMsg, results: [], matchedCount: matchedBooks.length, unmatchedInputs: unmatchedInputs };
+      return { success: false, message: "לא מצאנו המלצות מתאימות. נסו להזין ספרים אחרים או לשנות את הסינון.", results: [], matchedCount: matchedBooks.length, unmatchedInputs: unmatchedInputs };
     }
 
     return { success: true, message: warnMsg, results: topResults, matchedCount: matchedBooks.length, unmatchedInputs: unmatchedInputs };
@@ -874,212 +854,9 @@
     return parts.slice(0, 2).join(". ") + ".";
   }
 
-  // ===== מצב מומחה - שילוב מודל שפה =====
-
-  /**
-   * בוחר מועמדים לדירוג ע"י מודל השפה.
-   * משתמש במנוע המקומי כדי לסנן את הקטלוג ל-60 הטובים ביותר.
-   */
-  function selectCandidatesForAI(matchedBooks, libraryOnly) {
-    var profile = buildProfile(matchedBooks);
-    var pool = adultPool(libraryOnly);
-    var scored = [];
-
-    pool.forEach(function (book) {
-      if (profile.input_ids.has(book.id) || profile.input_titles.has(normalizeTitle(book.title))) return;
-      if (!passesFilters(book)) return;
-
-      var result = scoreCandidate(book, profile, matchedBooks.length);
-      // בוחרים גם ספרים שלא קיבלו ניקוד - כדי לתת למודל גיוון
-      scored.push({ book: book, score: result.score });
-    });
-
-    scored.sort(function (a, b) { return b.score - a.score; });
-
-    // לוקחים את 50 המנוקדים הגבוהים, ועוד 10 אקראיים מהקטלוג לגיוון
-    var top = scored.slice(0, 50).map(function (s) { return s.book; });
-    var rest = scored.slice(50);
-    for (var i = 0; i < 10 && rest.length > 0; i++) {
-      var randIdx = Math.floor(Math.random() * rest.length);
-      top.push(rest[randIdx].book);
-      rest.splice(randIdx, 1);
-    }
-    return top.slice(0, MAX_AI_CANDIDATES);
-  }
-
-  /**
-   * מבנה ספר לשליחה למודל - שדות חיוניים בלבד כדי לחסוך טוקנים.
-   */
-  function bookForAI(book, includeFullDesc) {
-    var obj = {
-      id: book.id,
-      title: book.title,
-      author: book.author
-    };
-    if (book.sub_genre) obj.sub_genre = book.sub_genre;
-    if (book.genres && book.genres.length) obj.genres = book.genres;
-    if (book.audience && book.audience.length) obj.audience = book.audience[0];
-    if (book.year) obj.year = book.year;
-    if (book.series) obj.series = book.series;
-    if (book.description) {
-      obj.description = includeFullDesc
-        ? book.description
-        : (book.description.length > 200 ? book.description.substring(0, 200) + "..." : book.description);
-    }
-    return obj;
-  }
-
-  /**
-   * בונה את ההודעה למודל - הוראות ספרן + ספרי קלט + מועמדים.
-   */
-  function buildAIPrompt(matchedBooks, candidates) {
-    var inputBooks = matchedBooks.map(function (b) { return bookForAI(b, true); });
-    var candidateBooks = candidates.map(function (b) { return bookForAI(b, false); });
-
-    var systemPrompt =
-      "אתה ספרן מנוסה וחם בספרייה קהילתית בישראל. תפקידך להמליץ לקוראים על ספרים מהקטלוג של הספרייה, " +
-      "בהתבסס על ספרים שאהבו. אתה מבין את הקשר העמוק שבין ספרים - לא רק ז'אנר, אלא גם נושאים, " +
-      "סגנון, אווירה, קול הסיפור, תקופה, וחוויית הקריאה. " +
-      "ההמלצות שלך חמות, אישיות, ומדויקות. אתה מסביר *למה* כל המלצה מתאימה, בלשון ספרן אמיתי - " +
-      "לא טכנית, לא רשימת ז'אנרים, אלא הסבר שמראה שקראת והבנת את הספרים. " +
-      "חשוב: אסור להמציא ספרים. בחר רק מתוך רשימת המועמדים שתקבל, לפי המזהה (id) שלהם.";
-
-    var userContent =
-      "הקורא אהב את הספרים הבאים:\n\n" +
-      JSON.stringify(inputBooks, null, 2) +
-      "\n\nרשימת המועמדים מהקטלוג של ספריית שחרות (חובה לבחור רק מאלה):\n\n" +
-      JSON.stringify(candidateBooks, null, 2) +
-      "\n\nבחר את 8-10 הספרים המתאימים ביותר מהמועמדים. " +
-      "החזר תשובה בפורמט JSON בלבד, ללא טקסט נוסף, במבנה הבא:\n" +
-      '{"recommendations": [{"id": "lib0123", "reason": "הסבר ספרני חם ואישי בעברית - 1-2 משפטים שמסבירים את הקשר לספרים שאהב, מצטטים נושא או מאפיין משותף"}, ...]}';
-
-    return { systemPrompt: systemPrompt, userContent: userContent };
-  }
-
-  /**
-   * קריאה למודל השפה. מחזירה Promise עם תוצאת ההמלצה.
-   */
-  function callAIModel(matchedBooks, candidates) {
-    var prompt = buildAIPrompt(matchedBooks, candidates);
-
-    var body = {
-      model: AI_MODEL,
-      max_tokens: 2500,
-      system: prompt.systemPrompt,
-      messages: [
-        { role: "user", content: prompt.userContent }
-      ]
-    };
-
-    return fetch("https://api.anthropic.com/v1/messages", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "x-api-key": state.apiKey,
-        "anthropic-version": "2023-06-01",
-        "anthropic-dangerous-direct-browser-access": "true"
-      },
-      body: JSON.stringify(body)
-    }).then(function (response) {
-      if (!response.ok) {
-        return response.text().then(function (txt) {
-          throw new Error("שגיאת מודל (" + response.status + "): " + txt.substring(0, 200));
-        });
-      }
-      return response.json();
-    }).then(function (data) {
-      var text = "";
-      if (data.content && data.content.length > 0) {
-        text = data.content[0].text || "";
-      }
-      // חילוץ JSON מהטקסט
-      var jsonMatch = text.match(/\{[\s\S]*\}/);
-      if (!jsonMatch) {
-        throw new Error("לא הצלחנו לפענח את תשובת המודל");
-      }
-      var parsed = JSON.parse(jsonMatch[0]);
-      if (!parsed.recommendations || !Array.isArray(parsed.recommendations)) {
-        throw new Error("מבנה התשובה לא תקין");
-      }
-      return parsed.recommendations;
-    });
-  }
-
-  /**
-   * פעולה מרכזית - מצב מומחה. מפעיל סינון מקומי + קריאה למודל.
-   */
-  function getAIRecommendations(userInputs, libraryOnly) {
-    var matchedBooks = [];
-    var unmatchedInputs = [];
-
-    userInputs.forEach(function (input) {
-      if (!input.trim()) return;
-      var match = findBook(input);
-      if (match) {
-        matchedBooks.push(match.book);
-      } else {
-        unmatchedInputs.push(input);
-      }
-    });
-
-    if (matchedBooks.length === 0) {
-      return Promise.resolve({
-        success: false,
-        message: "לא הצלחנו לזהות את הספרים שהזנתם.",
-        results: [],
-        matchedCount: 0,
-        unmatchedInputs: unmatchedInputs
-      });
-    }
-
-    var candidates = selectCandidatesForAI(matchedBooks, libraryOnly);
-
-    if (candidates.length === 0) {
-      return Promise.resolve({
-        success: false,
-        message: "לא נמצאו מועמדים מתאימים בקטלוג.",
-        results: [],
-        matchedCount: matchedBooks.length,
-        unmatchedInputs: unmatchedInputs
-      });
-    }
-
-    return callAIModel(matchedBooks, candidates).then(function (recs) {
-      // המרה חזרה לאובייקטי ספר
-      var results = [];
-      var candidateById = {};
-      candidates.forEach(function (b) { candidateById[b.id] = b; });
-
-      recs.forEach(function (rec) {
-        var book = candidateById[rec.id];
-        if (book) {
-          results.push({
-            book: book,
-            explanation: rec.reason || "מומלץ לכם על ידי הספרן הדיגיטלי",
-            aiRecommended: true
-          });
-        }
-      });
-
-      var message = "";
-      if (unmatchedInputs.length > 0) {
-        message = "לא זיהינו: " + unmatchedInputs.join(", ");
-      }
-
-      return {
-        success: results.length > 0,
-        message: message,
-        results: results,
-        matchedCount: matchedBooks.length,
-        unmatchedInputs: unmatchedInputs,
-        aiMode: true
-      };
-    });
-  }
-
   // ===== המלצה אקראית =====
-  function getRandomRecommendation(libraryOnly) {
-    var pool = adultPool(libraryOnly);
+  function getRandomRecommendation() {
+    var pool = adultPool();
     var filtered = pool.filter(passesFilters);
     if (filtered.length === 0) return null;
     return filtered[Math.floor(Math.random() * filtered.length)];
@@ -1095,8 +872,8 @@
     els.getRecsBtn = document.getElementById("getRecsBtn");
     els.randomBtn = document.getElementById("randomBtn");
     els.clearBtn = document.getElementById("clearBtn");
-    els.libraryOnlyToggle = document.getElementById("libraryOnlyToggle");
     els.filtersRow = document.getElementById("filtersRow");
+    els.moodSelect = document.getElementById("moodSelect");
     els.loadingSection = document.getElementById("loadingSection");
     els.resultsSection = document.getElementById("resultsSection");
     els.resultsTitle = document.getElementById("resultsTitle");
@@ -1123,6 +900,10 @@
       });
     });
 
+    els.moodSelect.addEventListener("change", function () {
+      updateActiveFilters();
+    });
+
     setupAutocomplete(0);
 
     document.addEventListener("keydown", function (e) {
@@ -1138,39 +919,6 @@
       }
     });
 
-    // ברירת מחדל: ספרי שחרות בלבד (כי יש לנו את הקטלוג המלא)
-    els.libraryOnlyToggle.checked = true;
-
-    // הגדרות מצב מומחה
-    els.settingsBtn = document.getElementById("settingsBtn");
-    els.settingsModal = document.getElementById("settingsModal");
-    els.modalCloseBtn = document.getElementById("modalCloseBtn");
-    els.apiKeyInput = document.getElementById("apiKeyInput");
-    els.saveKeyBtn = document.getElementById("saveKeyBtn");
-    els.clearKeyBtn = document.getElementById("clearKeyBtn");
-    els.keyStatus = document.getElementById("keyStatus");
-    els.aiModeToggle = document.getElementById("aiModeToggle");
-
-    // טעינת מפתח שמור
-    try {
-      var saved = localStorage.getItem(STORAGE_KEY);
-      if (saved) {
-        state.apiKey = saved;
-        els.apiKeyInput.value = saved;
-        showKeyStatus("מפתח שמור בדפדפן ✓", false);
-      }
-    } catch (e) {}
-
-    els.settingsBtn.addEventListener("click", function () {
-      els.settingsModal.classList.remove("hidden");
-    });
-    els.modalCloseBtn.addEventListener("click", function () {
-      els.settingsModal.classList.add("hidden");
-    });
-    els.settingsModal.addEventListener("click", function (e) {
-      if (e.target === els.settingsModal) els.settingsModal.classList.add("hidden");
-    });
-
     // מודאל ספר
     var bookModal = document.getElementById("bookModal");
     document.getElementById("bookModalClose").addEventListener("click", function () {
@@ -1182,48 +930,8 @@
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape") {
         bookModal.classList.add("hidden");
-        els.settingsModal.classList.add("hidden");
       }
     });
-    els.saveKeyBtn.addEventListener("click", function () {
-      var val = els.apiKeyInput.value.trim();
-      if (!val) {
-        showKeyStatus("נא להזין מפתח", true);
-        return;
-      }
-      try {
-        localStorage.setItem(STORAGE_KEY, val);
-        state.apiKey = val;
-        showKeyStatus("נשמר בהצלחה ✓", false);
-        setTimeout(function () { els.settingsModal.classList.add("hidden"); }, 800);
-      } catch (e) {
-        showKeyStatus("שגיאה בשמירה: " + e.message, true);
-      }
-    });
-    els.clearKeyBtn.addEventListener("click", function () {
-      try { localStorage.removeItem(STORAGE_KEY); } catch (e) {}
-      state.apiKey = "";
-      els.apiKeyInput.value = "";
-      els.aiModeToggle.checked = false;
-      state.aiMode = false;
-      showKeyStatus("המפתח נמחק", false);
-    });
-
-    els.aiModeToggle.addEventListener("change", function () {
-      if (els.aiModeToggle.checked && !state.apiKey) {
-        els.aiModeToggle.checked = false;
-        els.settingsModal.classList.remove("hidden");
-        showKeyStatus("נדרש מפתח כדי להפעיל את מצב מומחה", true);
-        return;
-      }
-      state.aiMode = els.aiModeToggle.checked;
-    });
-  }
-
-  function showKeyStatus(msg, isError) {
-    if (!els.keyStatus) return;
-    els.keyStatus.textContent = msg;
-    els.keyStatus.classList.toggle("error", !!isError);
   }
 
   function addBookInput() {
@@ -1361,6 +1069,10 @@
     document.querySelectorAll(".filter-chip.active").forEach(function (chip) {
       state.activeFilters.push({ type: chip.dataset.filter, value: chip.dataset.value });
     });
+    var moodVal = els.moodSelect ? els.moodSelect.value : "";
+    if (moodVal) {
+      state.activeFilters.push({ type: "mood", value: moodVal });
+    }
   }
 
   function getUserInputs() {
@@ -1381,35 +1093,12 @@
       return;
     }
 
-    var libraryOnly = els.libraryOnlyToggle.checked;
     hideAll();
     els.loadingSection.classList.remove("hidden");
 
-    if (state.aiMode && state.apiKey) {
-      // מצב מומחה
-      var loadingText = els.loadingSection.querySelector("p");
-      if (loadingText) loadingText.textContent = "הספרן הדיגיטלי מעיין בקטלוג ובוחר עבורכם...";
-
-      getAIRecommendations(inputs, libraryOnly).then(function (result) {
-        els.loadingSection.classList.add("hidden");
-        if (loadingText) loadingText.textContent = "מחפשים את הספרים המושלמים בשבילכם...";
-        if (result.success) {
-          showResults(result);
-        } else {
-          showEmpty(result.message);
-        }
-      }).catch(function (err) {
-        els.loadingSection.classList.add("hidden");
-        if (loadingText) loadingText.textContent = "מחפשים את הספרים המושלמים בשבילכם...";
-        showEmpty("שגיאה במצב מומחה: " + err.message + ". נסו שוב או חזרו למצב הרגיל.");
-        console.error(err);
-      });
-      return;
-    }
-
     setTimeout(function () {
       try {
-        var result = getRecommendations(inputs, libraryOnly);
+        var result = getRecommendations(inputs);
         els.loadingSection.classList.add("hidden");
         if (result.success) {
           showResults(result);
@@ -1425,8 +1114,7 @@
   }
 
   function handleRandom() {
-    var libraryOnly = els.libraryOnlyToggle.checked;
-    var book = getRandomRecommendation(libraryOnly);
+    var book = getRandomRecommendation();
     if (!book) {
       showEmpty("לא מצאנו ספרים מתאימים. נסו לשנות את הסינון.");
       return;
@@ -1450,6 +1138,7 @@
     state.inputCount = 1;
     els.addBookBtn.classList.remove("hidden");
     document.querySelectorAll(".filter-chip.active").forEach(function (chip) { chip.classList.remove("active"); });
+    if (els.moodSelect) els.moodSelect.value = "";
     state.activeFilters = [];
     hideAll();
     document.querySelector(".book-input").focus();
@@ -1471,11 +1160,7 @@
     hideAll();
     els.resultsSection.classList.remove("hidden");
 
-    var libraryOnly = els.libraryOnlyToggle.checked;
-    var prefix = result.aiMode ? "✨ ההמלצות של הספרן הדיגיטלי" : "ההמלצות שלנו";
-    els.resultsTitle.textContent = libraryOnly
-      ? prefix + " מתוך ספריית שחרות"
-      : prefix;
+    els.resultsTitle.textContent = "ההמלצות שלנו";
 
     var subtitle = "מצאנו " + result.results.length + " ספרים שכנראה תאהבו";
     if (result.message) subtitle += " | " + result.message;
