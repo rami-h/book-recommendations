@@ -874,7 +874,7 @@
     els.clearBtn = document.getElementById("clearBtn");
     els.filtersRow = document.getElementById("filtersRow");
     els.moodRow = document.getElementById("moodRow");
-    els.moodToggleChip = document.getElementById("moodToggleChip");
+    els.moodToggle = document.getElementById("moodToggle");
     els.loadingSection = document.getElementById("loadingSection");
     els.resultsSection = document.getElementById("resultsSection");
     els.resultsTitle = document.getElementById("resultsTitle");
@@ -901,11 +901,9 @@
       });
     });
 
-    els.moodToggleChip.addEventListener("click", function () {
-      var nowActive = els.moodToggleChip.classList.toggle("active");
-      els.moodRow.classList.toggle("hidden", !nowActive);
-      if (!nowActive) {
-        // סגרנו — נקה בחירות מצב רוח
+    els.moodToggle.addEventListener("change", function () {
+      els.moodRow.classList.toggle("hidden", !els.moodToggle.checked);
+      if (!els.moodToggle.checked) {
         document.querySelectorAll("#moodRow .filter-chip.active").forEach(function (c) { c.classList.remove("active"); });
         updateActiveFilters();
       }
@@ -1143,6 +1141,7 @@
     els.addBookBtn.classList.remove("hidden");
     document.querySelectorAll(".filter-chip.active").forEach(function (chip) { chip.classList.remove("active"); });
     els.moodRow.classList.add("hidden");
+    els.moodToggle.checked = false;
     state.activeFilters = [];
     hideAll();
     document.querySelector(".book-input").focus();

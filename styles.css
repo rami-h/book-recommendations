@@ -412,8 +412,15 @@ body {
   margin-bottom: var(--space-sm);
 }
 
+.mood-header-row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: 0;
+}
+
 #moodRow {
-  margin-top: 2px;
+  margin-top: var(--space-sm);
   margin-bottom: var(--space-lg);
 }
 
