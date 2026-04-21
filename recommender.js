@@ -171,9 +171,11 @@
       var bestSim = -Infinity;
       var bestBook = inputItems[0].book;
       var cVec = _embeddings.subarray(r._i * _dim, (r._i + 1) * _dim);
+      var inputSims = [];
 
       inputItems.forEach(function (iv) {
         var sim = _dot(cVec, iv.vec);
+        inputSims.push({ book: iv.book, sim: sim });
         if (sim > bestSim) {
           bestSim  = sim;
           bestBook = iv.book;
@@ -182,6 +184,7 @@
 
       r.closestInputBook = bestBook;
       r.closestSim       = bestSim;
+      r.inputSims        = inputSims;
       delete r._i;
     });
 

@@ -577,8 +577,10 @@
 
         enriched.sort(function (a, b) { return b.score - a.score; });
         var topResults = diversifyResults(enriched, MAX_RESULTS);
+        var inputBookUsage = {};
+        matchedBooks.forEach(function (b) { if (b.id) inputBookUsage[b.id] = 0; });
         topResults.forEach(function (item) {
-          item.explanation = generateExplanation(item, matchedBooks, item.closestInputBook);
+          item.explanation = generateExplanation(item, matchedBooks, item.closestInputBook, inputBookUsage);
         });
 
         if (topResults.length > 0) {
@@ -611,9 +613,10 @@
 
     scored.sort(function (a, b) { return b.score - a.score; });
     var topResults = diversifyResults(scored, MAX_RESULTS);
-
+    var inputBookUsageFb = {};
+    matchedBooks.forEach(function (b) { if (b.id) inputBookUsageFb[b.id] = 0; });
     topResults.forEach(function (item) {
-      item.explanation = generateExplanation(item, matchedBooks, null);
+      item.explanation = generateExplanation(item, matchedBooks, null, inputBookUsageFb);
     });
 
     if (topResults.length === 0) {
@@ -752,32 +755,63 @@
     return null;
   }
 
-  function generateExplanation(scoredItem, matchedBooks, closestInputBook) {
+  function generateExplanation(scoredItem, matchedBooks, closestInputBook, inputBookUsage) {
     var parts = [];
     var book  = scoredItem.book;
     var usedTypes = {};
 
-    // ── 1. קשר לספר קלט — מעדיף התאמת מאפיינים על פני קרבה סמנטית בלבד ────
+    // ── 1. קשר לספר קלט — ייחוס מאוזן: מעדיף מאפיינים ואת הפחות-מוזכר ────────
     var closestSim = scoredItem.closestSim || 0;
-    var referencedBook = null, referencedFeat = null;
+    var candidates = []; // { book, feat, sim, usage }
 
-    // סרוק את כל ספרי הקלט — קדם כל ספר שיש לו mood / sub_genre משותף
-    for (var mi = 0; mi < matchedBooks.length; mi++) {
-      var sf = findSharedFeature(book, matchedBooks[mi]);
-      if (sf) { referencedBook = matchedBooks[mi]; referencedFeat = sf; break; }
+    // (א) מועמדים עם התאמת מאפיינים (mood / sub_genre) — עדיפות ראשונה
+    matchedBooks.forEach(function (mb) {
+      var sf = findSharedFeature(book, mb);
+      if (!sf) return;
+      var sim = (closestInputBook && mb.id === closestInputBook.id) ? closestSim : 0.3;
+      if (scoredItem.inputSims) {
+        for (var si = 0; si < scoredItem.inputSims.length; si++) {
+          if (scoredItem.inputSims[si].book.id === mb.id) { sim = scoredItem.inputSims[si].sim; break; }
+        }
+      }
+      candidates.push({ book: mb, feat: sf, sim: sim,
+                         usage: (inputBookUsage && inputBookUsage[mb.id]) || 0 });
+    });
+
+    // (ב) אם אין התאמת מאפיינים — מועמדים סמנטיים עם סימולריטי > 0.25
+    if (candidates.length === 0) {
+      var simSrc = scoredItem.inputSims ||
+                   (closestInputBook ? [{ book: closestInputBook, sim: closestSim }] : []);
+      simSrc.forEach(function (entry) {
+        if (entry.sim > 0.25) {
+          candidates.push({ book: entry.book, feat: null, sim: entry.sim,
+                             usage: (inputBookUsage && inputBookUsage[entry.book.id]) || 0 });
+        }
+      });
     }
-    // אין התאמת מאפיינים — חזרה לקרוב הסמנטי
-    if (!referencedBook && closestInputBook && closestSim > 0.25) {
-      referencedBook = closestInputBook;
+
+    // (ג) בחר את המועמד הפחות-מוזכר; בשוויון — הכי קרוב סמנטית
+    var referencedBook = null, referencedFeat = null, referencedSim = 0;
+    if (candidates.length > 0) {
+      candidates.sort(function (a, b) {
+        if (a.usage !== b.usage) return a.usage - b.usage; // פחות שימוש — עדיפות
+        return b.sim - a.sim;                              // קרוב יותר — עדיפות
+      });
+      referencedBook = candidates[0].book;
+      referencedFeat = candidates[0].feat;
+      referencedSim  = candidates[0].sim;
     }
 
     if (referencedBook) {
+      if (inputBookUsage && referencedBook.id) {
+        inputBookUsage[referencedBook.id] = (inputBookUsage[referencedBook.id] || 0) + 1;
+      }
       if (referencedFeat) {
         parts.push("\u05D1\u05E8\u05D5\u05D7 \u201C" + referencedBook.title +
                    "\u201D \u2014 " + referencedFeat);
         if (referencedFeat.indexOf("\u05D0\u05D5\u05D5\u05D9\u05E8\u05D4") !== -1) usedTypes.mood = true;
         if (book.sub_genre && book.sub_genre === referencedBook.sub_genre) usedTypes.sub_genre = true;
-      } else if (matchedBooks.length === 1 || closestSim > 0.4) {
+      } else if (matchedBooks.length === 1 || referencedSim > 0.4) {
         parts.push("\u05D1\u05E8\u05D5\u05D7 \u201C" + referencedBook.title + "\u201D");
       }
     }
