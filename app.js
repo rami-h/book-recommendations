@@ -817,6 +817,8 @@
       for (var ri5 = 0; ri5 < reasons5.length && parts.length < 2; ri5++) {
         var r5 = reasons5[ri5];
         if (r5.type === 'origin' && r5.items && r5.items.length > 0) {
+          // אם כבר הוזכר ספר קלט ספציפי — origin חייב להתאים לו, לא לספר אחר
+          if (closestInputBook && closestInputBook.origin !== r5.items[0]) continue;
           parts.push('ספרות ' + r5.items[0] + ' — כמו שאהבתם');
           usedTypes.origin = true;
         }
