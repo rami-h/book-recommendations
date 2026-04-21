@@ -758,6 +758,8 @@
       if (sharedFeat) {
         parts.push("\u05D1\u05E8\u05D5\u05D7 \u201C" + closestInputBook.title +
                    "\u201D \u2014 " + sharedFeat);
+        // סמן שהמוד כבר נוצל כדי למנוע כפילות ב-section 7
+        if (book.mood && book.mood === closestInputBook.mood) usedTypes.mood = true;
       } else if (matchedBooks.length === 1 || closestSim > 0.4) {
         parts.push("\u05D1\u05E8\u05D5\u05D7 \u201C" + closestInputBook.title + "\u201D");
       }
