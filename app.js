@@ -874,8 +874,7 @@
     els.clearBtn = document.getElementById("clearBtn");
     els.filtersRow = document.getElementById("filtersRow");
     els.moodRow = document.getElementById("moodRow");
-    els.moodToggleBtn = document.getElementById("moodToggleBtn");
-    els.moodActiveHint = document.getElementById("moodActiveHint");
+    els.moodToggleChip = document.getElementById("moodToggleChip");
     els.loadingSection = document.getElementById("loadingSection");
     els.resultsSection = document.getElementById("resultsSection");
     els.resultsTitle = document.getElementById("resultsTitle");
@@ -899,13 +898,17 @@
       chip.addEventListener("click", function () {
         chip.classList.toggle("active");
         updateActiveFilters();
-        updateMoodHint();
       });
     });
 
-    els.moodToggleBtn.addEventListener("click", function () {
-      var open = els.moodRow.classList.toggle("hidden");
-      els.moodToggleBtn.classList.toggle("open", !open);
+    els.moodToggleChip.addEventListener("click", function () {
+      var nowActive = els.moodToggleChip.classList.toggle("active");
+      els.moodRow.classList.toggle("hidden", !nowActive);
+      if (!nowActive) {
+        // סגרנו — נקה בחירות מצב רוח
+        document.querySelectorAll("#moodRow .filter-chip.active").forEach(function (c) { c.classList.remove("active"); });
+        updateActiveFilters();
+      }
     });
 
     setupAutocomplete(0);
@@ -1075,17 +1078,6 @@
     });
   }
 
-  function updateMoodHint() {
-    if (!els.moodActiveHint) return;
-    var active = state.activeFilters.filter(function (f) { return f.type === "mood"; });
-    if (active.length === 0) {
-      els.moodActiveHint.textContent = "";
-      els.moodActiveHint.classList.add("hidden");
-    } else {
-      els.moodActiveHint.textContent = active.map(function (f) { return f.value; }).join(", ");
-      els.moodActiveHint.classList.remove("hidden");
-    }
-  }
 
   function getUserInputs() {
     var inputs = [];
@@ -1150,8 +1142,8 @@
     state.inputCount = 1;
     els.addBookBtn.classList.remove("hidden");
     document.querySelectorAll(".filter-chip.active").forEach(function (chip) { chip.classList.remove("active"); });
+    els.moodRow.classList.add("hidden");
     state.activeFilters = [];
-    updateMoodHint();
     hideAll();
     document.querySelector(".book-input").focus();
   }

@@ -413,55 +413,8 @@ body {
 }
 
 #moodRow {
-  margin-top: var(--space-xs, 4px);
+  margin-top: 2px;
   margin-bottom: var(--space-lg);
-}
-
-.mood-toggle-row {
-  display: flex;
-  align-items: center;
-  gap: var(--space-sm);
-  margin-bottom: 0;
-}
-
-.mood-toggle-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  padding: 5px 12px;
-  font-size: var(--font-size-sm);
-  font-family: var(--font-main);
-  background: transparent;
-  border: 1px solid var(--color-border);
-  border-radius: 20px;
-  cursor: pointer;
-  color: var(--color-text-light);
-  transition: all 0.2s;
-}
-
-.mood-toggle-btn:hover {
-  border-color: var(--color-primary);
-  color: var(--color-primary);
-}
-
-.mood-toggle-btn.open {
-  border-color: var(--color-primary);
-  color: var(--color-primary);
-}
-
-.mood-toggle-arrow {
-  display: inline-block;
-  transition: transform 0.2s;
-  font-size: 0.75rem;
-}
-
-.mood-toggle-btn.open .mood-toggle-arrow {
-  transform: rotate(180deg);
-}
-
-.mood-active-hint {
-  font-size: var(--font-size-sm);
-  color: var(--color-primary);
 }
 
 .filter-label {
