@@ -894,7 +894,7 @@
     els.tryAgainBtn.addEventListener("click", handleClear);
     els.emptyRetryBtn.addEventListener("click", handleClear);
 
-    document.querySelectorAll(".filter-chip").forEach(function (chip) {
+    document.querySelectorAll(".filter-chip[data-filter]").forEach(function (chip) {
       chip.addEventListener("click", function () {
         chip.classList.toggle("active");
         updateActiveFilters();
